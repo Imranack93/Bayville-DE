@@ -25,7 +25,7 @@
         {
             "OptionSlot": 2,
             "Option": {
-                "DialogCommand": "give @p pointblank:tti_viper",
+                "DialogCommand": "give @p the_dirty_stuff:light_blue_cigar",
                 "Dialog": 10,
                 "Title": "J'ai besoin d'un boulot",
                 "DialogColor": 804856,
@@ -84,7 +84,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1733583533179L,
+        "TimePast": 1733664335780L,
         "Time": 0L,
         "Subject": ""
     }

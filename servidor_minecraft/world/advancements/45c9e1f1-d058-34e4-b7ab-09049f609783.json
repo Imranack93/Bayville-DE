@@ -4264,5 +4264,29 @@
     },
     "done": true
   },
+  "jeg:pocket_bubble": {
+    "criteria": {
+      "Item": "2024-12-08 13:22:02 +0000"
+    },
+    "done": true
+  },
+  "jeg:stun_grenade": {
+    "criteria": {
+      "Item": "2024-12-08 13:18:45 +0000"
+    },
+    "done": true
+  },
+  "jeg:water_bomb": {
+    "criteria": {
+      "Item": "2024-12-08 13:22:39 +0000"
+    },
+    "done": true
+  },
+  "jeg:burst_rifle": {
+    "criteria": {
+      "Item": "2024-12-08 13:32:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

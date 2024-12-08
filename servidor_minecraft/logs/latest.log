@@ -918,3 +918,101 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Dec2024 13:17:54.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
 [08Dec2024 13:17:54.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
 [08Dec2024 13:18:19.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[08Dec2024 13:19:41.987] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[08Dec2024 13:19:50.904] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:19:51.105] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:19:51.284] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:19:51.476] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:19:51.687] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:20:22.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Teleported Imranack to Gaga]
+[08Dec2024 13:20:25.629] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:20:25.854] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:20:26.021] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:20:47.877] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:20:48.084] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:20:48.277] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:20:48.923] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:20:49.129] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:20:49.341] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:20:49.540] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:20:49.731] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:20:49.929] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:20:50.129] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:20:50.355] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:20:50.529] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:20:57.939] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:20:58.139] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:20:58.328] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:20:58.922] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:20:59.124] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:20:59.321] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:22:32.373] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:23:03.580] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:23:03.771] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:23:03.973] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:23:21.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[08Dec2024 13:23:33.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[08Dec2024 13:24:04.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElRichMC moved too quickly! 9.912430225545833,-0.3767356137817153,-1.74935315959661
+[08Dec2024 13:24:18.457] [Server thread/INFO] [cuffed/]: ElRichMC is interacting!
+[08Dec2024 13:24:58.987] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:25:22.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Light Blue Cigar] to Imranack]
+[08Dec2024 13:25:23.676] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:25:38.558] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:26:00.197] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/1302, l='ServerLevel[world]', x=-34.50, y=14.00, z=122.50] died, message: 'Toolsmith was killed'
+[08Dec2024 13:26:25.364] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:26:48.269] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:27:14.747] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/634, l='ServerLevel[world]', x=37.60, y=13.00, z=129.53] died, message: 'Armorer was killed'
+[08Dec2024 13:27:14.749] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/636, l='ServerLevel[world]', x=48.26, y=13.00, z=134.97] died, message: 'Armorer was killed'
+[08Dec2024 13:27:21.360] [Server thread/INFO] [cuffed/]: ElRichMC is interacting!
+[08Dec2024 13:27:31.557] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:27:46.297] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1486, l='ServerLevel[world]', x=694.50, y=15.00, z=-386.50] died, message: 'Villager was killed'
+[08Dec2024 13:27:50.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[08Dec2024 13:27:54.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[08Dec2024 13:28:15.395] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer Jerry'/1525, l='ServerLevel[world]', x=673.50, y=13.00, z=-401.50] died, message: 'Farmer Jerry was killed'
+[08Dec2024 13:28:15.396] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Farmer Jerry'/1525, l='ServerLevel[world]', x=673.50, y=13.00, z=-401.50] died: Farmer Jerry was killed
+[08Dec2024 13:28:15.396] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1527, l='ServerLevel[world]', x=677.20, y=13.00, z=-408.50] died, message: 'Villager was killed'
+[08Dec2024 13:28:15.397] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/1528, l='ServerLevel[world]', x=680.50, y=12.80, z=-408.50] died, message: 'Toolsmith was killed'
+[08Dec2024 13:28:23.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Adventure Mode]
+[08Dec2024 13:28:25.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[08Dec2024 13:28:42.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Adventure Mode]
+[08Dec2024 13:28:45.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[08Dec2024 13:29:05.407] [Server thread/INFO] [cuffed/]: ElRichMC is interacting!
+[08Dec2024 13:29:06.405] [Server thread/INFO] [cuffed/]: ElRichMC is interacting!
+[08Dec2024 13:29:06.555] [Server thread/INFO] [cuffed/]: ElRichMC is interacting!
+[08Dec2024 13:29:16.361] [Server thread/INFO] [cuffed/]: ElRichMC is interacting!
+[08Dec2024 13:29:39.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[08Dec2024 13:29:51.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[08Dec2024 13:29:53.719] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:30:31.156] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:30:36.752] [Server thread/INFO] [cuffed/]: ElRichMC is interacting!
+[08Dec2024 13:30:38.315] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:30:39.545] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/1633, l='ServerLevel[world]', x=615.50, y=12.80, z=-412.50] died, message: 'Librarian was killed'
+[08Dec2024 13:30:43.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[08Dec2024 13:31:06.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[08Dec2024 13:31:09.366] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:31:24.155] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:31:52.893] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:32:15.257] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:32:33.462] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:33:28.496] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/1994, l='ServerLevel[world]', x=189.50, y=13.00, z=73.50] died, message: 'Armorer was killed'
+[08Dec2024 13:33:43.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[08Dec2024 13:34:00.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[08Dec2024 13:34:10.149] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[08Dec2024 13:34:17.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Teleported ElRichMC to Momo93bg]
+[08Dec2024 13:34:19.051] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/2025, l='ServerLevel[world]', x=186.50, y=11.90, z=268.50] died, message: 'Butcher was killed'
+[08Dec2024 13:34:19.053] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/2042, l='ServerLevel[world]', x=214.06, y=11.90, z=253.50] died, message: 'Cartographer was killed'
+[08Dec2024 13:34:19.053] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2043, l='ServerLevel[world]', x=200.50, y=10.90, z=252.50] died, message: 'Villager was killed'
+[08Dec2024 13:34:19.053] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2044, l='ServerLevel[world]', x=186.52, y=10.90, z=253.11] died, message: 'Villager was killed'
+[08Dec2024 13:34:19.054] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/2045, l='ServerLevel[world]', x=198.55, y=11.40, z=273.66] died, message: 'Armorer was killed'
+[08Dec2024 13:34:19.054] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/2046, l='ServerLevel[world]', x=180.55, y=10.90, z=282.68] died, message: 'Fisherman was killed'
+[08Dec2024 13:34:19.054] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/2047, l='ServerLevel[world]', x=198.67, y=10.90, z=249.50] died, message: 'Armorer was killed'
+[08Dec2024 13:34:19.055] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/2048, l='ServerLevel[world]', x=193.62, y=10.90, z=249.57] died, message: 'Cartographer was killed'
+[08Dec2024 13:36:30.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[08Dec2024 13:36:51.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[08Dec2024 13:36:57.181] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:37:14.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[08Dec2024 13:37:24.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[08Dec2024 13:37:51.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[08Dec2024 13:37:58.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[08Dec2024 13:38:07.306] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:38:33.390] [Server thread/INFO] [cuffed/]: Imranack is interacting!
