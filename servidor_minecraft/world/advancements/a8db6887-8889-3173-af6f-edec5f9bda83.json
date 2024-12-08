@@ -2330,6 +2330,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-08 13:57:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_kitchen_storage_cabinet": {
     "criteria": {
       "has_wooden_kitchen_storage_cabinets": "2024-12-08 13:31:29 +0000"
@@ -2359,6 +2365,13 @@
       "has_wooden_kitchen_storage_cabinets": "2024-12-08 13:31:29 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2024-12-08 13:57:14 +0000",
+      "bread": "2024-12-08 13:57:00 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/pink_kitchen_storage_cabinet": {
     "criteria": {

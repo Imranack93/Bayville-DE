@@ -22,10 +22,22 @@
     "PlayerCompanionId": 0,
     "DialogData": [
         {
+            "Dialog": 16
+        },
+        {
+            "Dialog": 17
+        },
+        {
+            "Dialog": 18
+        },
+        {
             "Dialog": 7
         },
         {
             "Dialog": 10
+        },
+        {
+            "Dialog": 12
         }
     ],
     "ItemGiverChained": [
