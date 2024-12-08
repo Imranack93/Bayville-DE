@@ -1204,3 +1204,64 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Dec2024 13:59:02.222] [Server thread/INFO] [cuffed/]: Gaga is interacting!
 [08Dec2024 13:59:06.051] [Server thread/INFO] [cuffed/]: Gaga is interacting!
 [08Dec2024 13:59:08.141] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 13:59:24.672] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[08Dec2024 13:59:29.172] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[08Dec2024 13:59:29.972] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[08Dec2024 13:59:47.305] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 13:59:49.985] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[08Dec2024 14:00:03.729] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[08Dec2024 14:00:15.952] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/3690, l='ServerLevel[world]', x=95.50, y=13.10, z=-57.29] died, message: 'Fisherman was killed'
+[08Dec2024 14:00:28.041] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:00:40.696] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/1526, l='ServerLevel[world]', x=103.50, y=17.00, z=-162.50] died, message: 'Farmer was killed'
+[08Dec2024 14:00:40.696] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/3699, l='ServerLevel[world]', x=110.50, y=15.00, z=-149.50] died, message: 'Farmer was killed'
+[08Dec2024 14:00:40.696] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/3700, l='ServerLevel[world]', x=111.50, y=16.00, z=-161.50] died, message: 'Librarian was killed'
+[08Dec2024 14:00:40.697] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3701, l='ServerLevel[world]', x=101.50, y=16.00, z=-140.50] died, message: 'Villager was killed'
+[08Dec2024 14:00:40.697] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/3702, l='ServerLevel[world]', x=87.50, y=17.90, z=-144.50] died, message: 'Farmer was killed'
+[08Dec2024 14:00:40.697] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/3703, l='ServerLevel[world]', x=103.50, y=17.00, z=-162.50] died, message: 'Farmer was killed'
+[08Dec2024 14:01:02.945] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/3725, l='ServerLevel[world]', x=110.50, y=15.00, z=-149.50] died, message: 'Farmer was killed'
+[08Dec2024 14:01:02.946] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/3726, l='ServerLevel[world]', x=111.50, y=16.00, z=-161.50] died, message: 'Librarian was killed'
+[08Dec2024 14:01:02.946] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3727, l='ServerLevel[world]', x=101.50, y=16.00, z=-140.50] died, message: 'Villager was killed'
+[08Dec2024 14:01:02.946] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/3728, l='ServerLevel[world]', x=87.50, y=17.90, z=-144.50] died, message: 'Farmer was killed'
+[08Dec2024 14:01:02.947] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/3729, l='ServerLevel[world]', x=103.50, y=17.00, z=-162.50] died, message: 'Farmer was killed'
+[08Dec2024 14:01:10.187] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:01:11.404] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:01:12.303] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:01:12.503] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:01:14.946] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/3736, l='ServerLevel[world]', x=110.50, y=15.00, z=-149.50] died, message: 'Farmer was killed'
+[08Dec2024 14:01:14.946] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/3737, l='ServerLevel[world]', x=111.50, y=16.00, z=-161.50] died, message: 'Librarian was killed'
+[08Dec2024 14:01:14.946] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3738, l='ServerLevel[world]', x=101.50, y=16.00, z=-140.50] died, message: 'Villager was killed'
+[08Dec2024 14:01:14.947] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/3739, l='ServerLevel[world]', x=87.50, y=17.90, z=-144.50] died, message: 'Farmer was killed'
+[08Dec2024 14:01:14.947] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/3740, l='ServerLevel[world]', x=103.50, y=17.00, z=-162.50] died, message: 'Farmer was killed'
+[08Dec2024 14:01:22.492] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:02:02.632] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:02:26.454] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:02:28.356] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:02:28.893] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:02:42.886] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:02:59.447] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[08Dec2024 14:03:02.757] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:03:35.154] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:03:40.889] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:03:45.754] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:04:14.603] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:04:23.002] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:04:24.652] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:04:26.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set Gaga's game mode to Survival Mode]
+[08Dec2024 14:04:30.430] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:05:10.067] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[08Dec2024 14:05:11.851] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[08Dec2024 14:05:12.626] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[08Dec2024 14:05:13.187] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[08Dec2024 14:05:21.387] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[08Dec2024 14:06:14.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [commencer_vol]]
+[08Dec2024 14:06:14.751] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:06:27.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [commencer_vol]]
+[08Dec2024 14:06:33.234] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[08Dec2024 14:06:39.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Momo93bg: Triggered [commencer_vol]]
+[08Dec2024 14:06:48.435] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[08Dec2024 14:06:54.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [commencer_vol]]
+[08Dec2024 14:07:01.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [commencer_vol]]
+[08Dec2024 14:07:36.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Teleported Momo93bg to Imranack]
+[08Dec2024 14:08:00.984] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[08Dec2024 14:08:42.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gaga has completed the challenge [Serious Dedication]
+[08Dec2024 14:09:18.723] [Server thread/INFO] [cuffed/]: Gaga is interacting!
