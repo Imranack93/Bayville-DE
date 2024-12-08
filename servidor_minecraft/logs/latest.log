@@ -1,107 +1,920 @@
-[08Dec2024 10:58:05.459] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[08Dec2024 10:58:05.463] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[08Dec2024 10:58:05.558] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/Bayville-DE/servidor_minecraft/config/fml.toml is not correct. Correcting
-[08Dec2024 10:58:05.559] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
-[08Dec2024 10:58:05.560] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
-[08Dec2024 10:58:05.560] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
-[08Dec2024 10:58:05.561] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
-[08Dec2024 10:58:05.580] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[08Dec2024 10:58:05.625] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Bayville-DE/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[08Dec2024 10:58:05.823] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Bayville-DE/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[08Dec2024 10:58:05.841] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Bayville-DE/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[08Dec2024 10:58:05.843] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Bayville-DE/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[08Dec2024 10:58:05.844] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Bayville-DE/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[08Dec2024 10:58:05.942] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[08Dec2024 10:58:07.436] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[08Dec2024 10:58:12.799] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[08Dec2024 10:58:12.803] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[08Dec2024 10:58:13.548] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[08Dec2024 10:58:14.056] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
-[08Dec2024 10:58:14.510] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[08Dec2024 10:58:14.546] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Bayville-DE/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/assets/.mcassetsroot' uses unexpected schema
-[08Dec2024 10:58:14.547] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Bayville-DE/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/data/.mcassetsroot' uses unexpected schema
-[08Dec2024 10:58:16.354] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[08Dec2024 10:58:16.476] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
-[08Dec2024 10:58:16.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[08Dec2024 10:58:16.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[08Dec2024 10:58:16.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[08Dec2024 10:58:16.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[08Dec2024 10:58:17.127] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[08Dec2024 10:58:17.162] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[08Dec2024 10:58:17.265] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[08Dec2024 10:58:17.266] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[08Dec2024 10:58:17.266] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[08Dec2024 10:58:17.267] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[08Dec2024 10:58:17.293] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
-[08Dec2024 10:58:17.295] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
-[08Dec2024 10:58:17.295] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
-[08Dec2024 10:58:17.295] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
-[08Dec2024 10:58:17.296] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
-[08Dec2024 10:58:17.296] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
-[08Dec2024 10:58:17.297] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
-[08Dec2024 10:58:17.297] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
-[08Dec2024 10:58:17.298] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
-[08Dec2024 10:58:17.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[08Dec2024 10:58:23.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[08Dec2024 10:58:24.020] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Dec2024 10:58:24.022] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Dec2024 10:58:24.442] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Dec2024 10:58:24.749] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Dec2024 10:58:25.258] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Dec2024 10:58:25.733] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[08Dec2024 10:58:26.261] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[08Dec2024 10:58:26.766] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[08Dec2024 10:58:27.237] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
-[08Dec2024 10:58:27.790] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
-[08Dec2024 10:58:28.230] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[08Dec2024 10:58:28.731] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
-[08Dec2024 10:58:29.445] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
-[08Dec2024 10:58:29.736] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
-[08Dec2024 10:58:30.231] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
-[08Dec2024 10:58:30.734] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
-[08Dec2024 10:58:31.234] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
-[08Dec2024 10:58:31.807] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
-[08Dec2024 10:58:32.234] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
-[08Dec2024 10:58:32.802] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
-[08Dec2024 10:58:34.171] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
-[08Dec2024 10:58:34.172] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
-[08Dec2024 10:58:34.253] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
-[08Dec2024 10:58:34.740] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
-[08Dec2024 10:58:35.241] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 20%
-[08Dec2024 10:58:35.735] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
-[08Dec2024 10:58:36.237] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 23%
-[08Dec2024 10:58:36.732] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 25%
-[08Dec2024 10:58:37.255] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 28%
-[08Dec2024 10:58:37.750] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
-[08Dec2024 10:58:38.233] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
-[08Dec2024 10:58:38.755] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 34%
-[08Dec2024 10:58:39.235] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
-[08Dec2024 10:58:39.733] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 40%
-[08Dec2024 10:58:40.251] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 42%
-[08Dec2024 10:58:40.736] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 43%
-[08Dec2024 10:58:41.232] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 45%
-[08Dec2024 10:58:41.756] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
-[08Dec2024 10:58:42.241] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
-[08Dec2024 10:58:42.757] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
-[08Dec2024 10:58:43.256] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
-[08Dec2024 10:58:43.732] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 59%
-[08Dec2024 10:58:44.239] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 62%
-[08Dec2024 10:58:44.730] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 63%
-[08Dec2024 10:58:45.230] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 64%
-[08Dec2024 10:58:45.735] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
-[08Dec2024 10:58:46.231] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 70%
-[08Dec2024 10:58:46.730] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 72%
-[08Dec2024 10:58:47.232] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 75%
-[08Dec2024 10:58:47.755] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 78%
-[08Dec2024 10:58:48.233] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 80%
-[08Dec2024 10:58:49.013] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 82%
-[08Dec2024 10:58:49.238] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[08Dec2024 10:58:49.733] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 85%
-[08Dec2024 10:58:50.230] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 86%
-[08Dec2024 10:58:50.731] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
-[08Dec2024 10:58:51.256] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 92%
-[08Dec2024 10:58:51.769] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 95%
-[08Dec2024 10:58:52.245] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 97%
-[08Dec2024 10:58:52.573] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 29344 ms
-[08Dec2024 10:58:52.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (35.289s)! For help, type "help"
-[08Dec2024 10:58:52.588] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[08Dec2024 13:08:42.382] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[08Dec2024 13:08:42.386] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[08Dec2024 13:08:43.066] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[08Dec2024 13:08:43.076] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[08Dec2024 13:08:43.077] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/Bayville-DE/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar%23145!/
+[08Dec2024 13:08:43.086] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/Bayville-DE/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar
+[08Dec2024 13:08:43.090] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[08Dec2024 13:08:43.136] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Bayville-DE/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[08Dec2024 13:08:43.144] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[08Dec2024 13:08:43.502] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Bayville-DE/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[08Dec2024 13:08:43.503] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Bayville-DE/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[08Dec2024 13:08:43.504] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Bayville-DE/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[08Dec2024 13:08:43.505] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Bayville-DE/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[08Dec2024 13:08:43.663] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[08Dec2024 13:08:44.225] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[08Dec2024 13:08:44.234] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[08Dec2024 13:08:45.175] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[08Dec2024 13:08:46.141] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[08Dec2024 13:08:46.189] [main/INFO] [mixin/]: Compatibility level JAVA_8 specified by theft.mixins.json is lower than the default level supported by the current mixin service (JAVA_16).
+[08Dec2024 13:08:46.245] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[08Dec2024 13:08:46.406] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.19.6+mc1.20.1: 84 options available, 3 override(s) found
+[08Dec2024 13:08:46.407] [main/WARN] [ModernFix/]: Option 'mixin.perf.faster_texture_stitching' overriden (by mods [optifine]) to 'false'
+[08Dec2024 13:08:46.407] [main/WARN] [ModernFix/]: Option 'mixin.bugfix.entity_pose_stack' overriden (by mods [optifine]) to 'false'
+[08Dec2024 13:08:46.407] [main/WARN] [ModernFix/]: Option 'mixin.launch.class_search_cache' overriden (by mods [optifine]) to 'false'
+[08Dec2024 13:08:46.408] [main/FATAL] [ModernFix/]: OptiFine detected. Use of ModernFix with OptiFine is not supported due to its impact on launch time and breakage of Forge features.
+[08Dec2024 13:08:46.408] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[08Dec2024 13:08:46.427] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[08Dec2024 13:08:46.598] [main/WARN] [mixin/]: Reference map 'packetfixer-forge-forge-refmap.json' for packetfixer-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Dec2024 13:08:47.385] [main/WARN] [mixin/]: Error loading class: noobanidus/mods/lootr/block/entities/TileTicker (java.lang.ClassNotFoundException: noobanidus.mods.lootr.block.entities.TileTicker)
+[08Dec2024 13:08:48.155] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
+[08Dec2024 13:08:48.731] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (8.540 s after launch)
+[08Dec2024 13:08:48.843] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[08Dec2024 13:08:48.845] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[08Dec2024 13:08:50.362] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1627 milliseconds
+[08Dec2024 13:08:50.681] [main/INFO] [mixin/]: Mixing MixinContainer from theft.mixins.json into net.minecraft.world.inventory.AbstractContainerMenu
+[08Dec2024 13:08:50.681] [main/WARN] [mixin/]: theft.mixins.json:MixinContainer: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[08Dec2024 13:08:51.743] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zhi000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[08Dec2024 13:08:53.061] [modloading-worker-0/INFO] [lazrslib/]: Built config 'cuffed' Successfully!
+[08Dec2024 13:08:53.157] [modloading-worker-0/INFO] [cuffed/]: Registered restraints
+[08Dec2024 13:08:53.658] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[08Dec2024 13:08:53.665] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[08Dec2024 13:08:53.715] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id dragonlib:dragonlib_network/69a65f20acde32448da097b16eacfce9
+[08Dec2024 13:08:53.715] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id dragonlib:dragonlib_network/69d73e101ecb38b59cc59ce369f9f0e6
+[08Dec2024 13:08:53.716] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id dragonlib:dragonlib_network/fcf1d4bbbc3b340daddecfd8389e586f
+[08Dec2024 13:08:53.720] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id dragonlib:dragonlib_network/7ea7435aa82d37fbbe7321ccd48bb6b2
+[08Dec2024 13:08:53.730] [Wyvern/INFO] [DragonLib/]:                              +++ 🐉 +++                             
+[08Dec2024 13:08:53.739] [Wyvern/INFO] [DragonLib/]: ---------------------------------------------------------------------
+[08Dec2024 13:08:53.745] [Wyvern/INFO] [DragonLib/]:             Loaded DragonLib v1.20.1-2.2.20 by MrJulsen!            
+[08Dec2024 13:08:53.745] [Wyvern/INFO] [DragonLib/]:                        Minecraft Forge 1.20.1                       
+[08Dec2024 13:08:53.745] [Wyvern/INFO] [DragonLib/]: 
+[08Dec2024 13:08:53.746] [Wyvern/INFO] [DragonLib/]:                Discord: https://discord.gg/AeSbNgvc7f               
+[08Dec2024 13:08:53.746] [Wyvern/INFO] [DragonLib/]:         GitHub: https://github.com/MisterJulsen/MC-DragonLib2        
+[08Dec2024 13:08:53.747] [Wyvern/INFO] [DragonLib/]:   Bug Reports: https://github.com/MisterJulsen/MC-DragonLib2/issues  
+[08Dec2024 13:08:53.747] [Wyvern/INFO] [DragonLib/]: ---------------------------------------------------------------------
+[08Dec2024 13:08:53.747] [Wyvern/INFO] [DragonLib/]:                              +++ 🐉 +++                             
+[08Dec2024 13:08:53.788] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/d85a7a4aa463373fb22b101ad94d1c48
+[08Dec2024 13:08:53.793] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/fab5893522103d4ca740ddee7d2654ab
+[08Dec2024 13:08:53.794] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/5c7dfb84d7ec3546a52eefcac64283ff
+[08Dec2024 13:08:53.795] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/7d55831bb6333f39afde0cb9f42fd6e3
+[08Dec2024 13:08:53.796] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/625d942b4fa234efa52ca0502d8fa717
+[08Dec2024 13:08:53.796] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/f88c2b3de6143fbba12e7938ea3c3814
+[08Dec2024 13:08:53.797] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/a80c51764adf38078bc209f7d365ac61
+[08Dec2024 13:08:53.798] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/de5277a02f1837c6b214225b903f70e1
+[08Dec2024 13:08:53.799] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/1403d7711b173ddc9a0b888716b3c752
+[08Dec2024 13:08:53.801] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/fd0506c3285636cc8bce35efe210e1ee
+[08Dec2024 13:08:53.803] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/bec05bb5e9bb393d893587674345e633
+[08Dec2024 13:08:53.804] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/48042160625b3b769ef146ad08bcf527
+[08Dec2024 13:08:53.811] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/825ad09c9de336789474c2d743034086
+[08Dec2024 13:08:53.812] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/8b635e98445e3228b2c4e9a5863bdbdd
+[08Dec2024 13:08:53.812] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/ed7b2b9dfbad3721a7b5ffa3cf3d43d6
+[08Dec2024 13:08:53.813] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/3f998592f8ae3a08af9252b3d4e3c8bc
+[08Dec2024 13:08:53.814] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/f0ada4752e063296bdec3feb32caeef7
+[08Dec2024 13:08:53.814] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/5f4c6fde558139b49bc3ce1441c1562c
+[08Dec2024 13:08:53.815] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/fd14fb67cecd3db484da162f9655c23b
+[08Dec2024 13:08:53.845] [modloading-worker-0/INFO] [dev.tonimatas.packetfixer.PacketFixer/]: Packet Fixer has been initialized successfully
+[08Dec2024 13:08:53.861] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[08Dec2024 13:08:53.861] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[08Dec2024 13:08:54.718] [main/INFO] [cuffed/]: Registering Capabilities for Cuffed
+[08Dec2024 13:08:55.125] [main/INFO] [cuffed/]: Registering sound for Cuffed
+[08Dec2024 13:08:56.295] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[08Dec2024 13:08:56.296] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
+[08Dec2024 13:08:56.970] [main/INFO] [cuffed/]: Cuffed has found a foreign restraint registry, registering with Restraint API
+[08Dec2024 13:08:57.012] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class com.lazrproductions.cuffed.entity.WeightedAnchorEntity
+[08Dec2024 13:08:57.267] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Bayville-DE/servidor_minecraft/config/dragonlib-common.toml is not correct. Correcting
+[08Dec2024 13:08:57.268] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key dragonlib_common_config.caching.mode was corrected from NORMAL to its default, NORMAL. 
+[08Dec2024 13:08:57.422] [modloading-worker-0/INFO] [cuffed/]: Running commmon setup for Cuffed
+[08Dec2024 13:08:57.519] [modloading-worker-0/INFO] [de.mrjulsen.trafficcraft.TrafficCraft/]: Welcome to the TRAFFICCRAFT mod by MRJULSEN.
+[08Dec2024 13:08:57.786] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[08Dec2024 13:08:58.095] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@18f6a443]
+[08Dec2024 13:08:58.113] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.15+6463-5ca4dff) is loaded
+[08Dec2024 13:08:58.176] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:aiming for minecraft:player
+[08Dec2024 13:08:58.176] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:reloading for minecraft:player
+[08Dec2024 13:08:58.176] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:shooting for minecraft:player
+[08Dec2024 13:08:58.177] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:burst_count for minecraft:player
+[08Dec2024 13:08:58.233] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.11 Target: 1.9.12
+[08Dec2024 13:08:58.233] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[08Dec2024 13:08:58.234] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tld] Starting version check at https://api.modrinth.com/updates/YfbCGNcr/forge_updates.json
+[08Dec2024 13:08:58.391] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tld] Found status: BETA_OUTDATED Current: 1 Target: 1+mod
+[08Dec2024 13:08:58.392] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[08Dec2024 13:08:58.444] [modloading-worker-0/INFO] [Magical Jewelry/]: enqueue method registered.
+[08Dec2024 13:08:58.926] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA_OUTDATED Current: 1.0.6 Target: 1.0.8
+[08Dec2024 13:08:58.927] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[08Dec2024 13:08:59.263] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08Dec2024 13:08:59.448] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:gaming_pc_1_light_off Expected: 1028 Got: 4159
+[08Dec2024 13:08:59.449] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:mmd_gaming_laptop_open_off Expected: 1029 Got: 4160
+[08Dec2024 13:08:59.449] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:grafikkarte_light_block Expected: 1030 Got: 4161
+[08Dec2024 13:08:59.449] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:grafikkarte_dark_block Expected: 1031 Got: 4162
+[08Dec2024 13:08:59.449] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:mainboard_block_cooler Expected: 1032 Got: 4163
+[08Dec2024 13:08:59.449] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:pc_parts Expected: 1033 Got: 4164
+[08Dec2024 13:08:59.449] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:mainboard_block_cooler_light Expected: 1034 Got: 4165
+[08Dec2024 13:08:59.450] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:pc_parts_light Expected: 1035 Got: 4166
+[08Dec2024 13:08:59.450] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:softbox_bottom Expected: 1036 Got: 4167
+[08Dec2024 13:08:59.450] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:softbox_middle Expected: 1037 Got: 4168
+[08Dec2024 13:08:59.450] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:softbox_off Expected: 1038 Got: 4169
+[08Dec2024 13:08:59.450] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:softbox_block_off Expected: 1039 Got: 4170
+[08Dec2024 13:08:59.451] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:softbox_wall_off Expected: 1040 Got: 4171
+[08Dec2024 13:08:59.451] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:modern_tv Expected: 1041 Got: 4172
+[08Dec2024 13:08:59.452] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:modern_tv_type_2 Expected: 1042 Got: 4173
+[08Dec2024 13:08:59.452] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:modern_tv_on Expected: 1043 Got: 4174
+[08Dec2024 13:08:59.452] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:modern_tv_type_2_on Expected: 1044 Got: 4175
+[08Dec2024 13:08:59.452] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:soundbar_left Expected: 1045 Got: 4176
+[08Dec2024 13:08:59.452] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:soundbar_right Expected: 1046 Got: 4177
+[08Dec2024 13:08:59.452] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:soundbar_right_cable Expected: 1047 Got: 4178
+[08Dec2024 13:08:59.453] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:console_1 Expected: 1048 Got: 4179
+[08Dec2024 13:08:59.453] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:console_1_type_2 Expected: 1049 Got: 4180
+[08Dec2024 13:08:59.453] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:console_1_light Expected: 1050 Got: 4181
+[08Dec2024 13:08:59.453] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:console_1_type_2_light Expected: 1051 Got: 4182
+[08Dec2024 13:08:59.453] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:playtics_station Expected: 1052 Got: 4183
+[08Dec2024 13:08:59.454] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:playtics_station_dark Expected: 1053 Got: 4184
+[08Dec2024 13:08:59.455] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:playtics_station_slim Expected: 1054 Got: 4185
+[08Dec2024 13:08:59.455] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:playtics_station_slim_dark Expected: 1055 Got: 4186
+[08Dec2024 13:08:59.455] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:microphoneyetos Expected: 1056 Got: 4187
+[08Dec2024 13:08:59.456] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:microphone_eyetos_x Expected: 1057 Got: 4188
+[08Dec2024 13:08:59.456] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:player_y_mic Expected: 1058 Got: 4189
+[08Dec2024 13:08:59.456] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:alpha_7_4 Expected: 1059 Got: 4190
+[08Dec2024 13:08:59.456] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:playtics_station_next_gen Expected: 1060 Got: 4191
+[08Dec2024 13:08:59.456] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:playtics_station_next_gen_off Expected: 1061 Got: 4192
+[08Dec2024 13:08:59.456] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:alpha_7_4_ob_medium Expected: 1062 Got: 4193
+[08Dec2024 13:08:59.456] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:alpha_7_4_ob_small Expected: 1063 Got: 4194
+[08Dec2024 13:08:59.457] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:ob_medium Expected: 1064 Got: 4195
+[08Dec2024 13:08:59.457] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:ob_small Expected: 1065 Got: 4196
+[08Dec2024 13:08:59.457] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:playtics_station_next_gen_dark Expected: 1066 Got: 4197
+[08Dec2024 13:08:59.457] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:playtics_station_next_gen_off_dark Expected: 1067 Got: 4198
+[08Dec2024 13:08:59.457] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:playtics_station_next_gen_type_2 Expected: 1068 Got: 4199
+[08Dec2024 13:08:59.458] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:playtics_station_next_gen_type_2_off Expected: 1069 Got: 4200
+[08Dec2024 13:08:59.458] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:playtics_station_next_gen_type_2_dark Expected: 1070 Got: 4201
+[08Dec2024 13:08:59.458] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:playtics_station_next_gen_type_2_dark_off Expected: 1071 Got: 4202
+[08Dec2024 13:08:59.459] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:microphone_eyetos_x_pop Expected: 1072 Got: 4203
+[08Dec2024 13:08:59.459] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:microphone_eyetos_x_pop_off Expected: 1073 Got: 4204
+[08Dec2024 13:08:59.459] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:flat_screen_monitor Expected: 1074 Got: 4205
+[08Dec2024 13:08:59.459] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:flat_screen_monitor_turned_left Expected: 1075 Got: 4206
+[08Dec2024 13:08:59.459] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:flat_screen_monitor_turned_right Expected: 1076 Got: 4207
+[08Dec2024 13:08:59.460] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:gaming_monitor_curved_nsi Expected: 1077 Got: 4208
+[08Dec2024 13:08:59.460] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:asas_gaming_monitor Expected: 1078 Got: 4209
+[08Dec2024 13:08:59.460] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:gaming_pc_1 Expected: 1079 Got: 4210
+[08Dec2024 13:08:59.460] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:webcam_rotated_left Expected: 1080 Got: 4211
+[08Dec2024 13:08:59.460] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:webcam_rotated_right Expected: 1081 Got: 4212
+[08Dec2024 13:08:59.465] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:microphoneyetos_rotated Expected: 1082 Got: 4213
+[08Dec2024 13:08:59.465] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:mmd_gaming_laptop_open Expected: 1083 Got: 4214
+[08Dec2024 13:08:59.465] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:mmd_gaming_laptop_close Expected: 1084 Got: 4215
+[08Dec2024 13:08:59.466] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:flatscreenmonitorsmallon Expected: 1085 Got: 4216
+[08Dec2024 13:08:59.466] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:microphoneyetos_rotated_next Expected: 1086 Got: 4217
+[08Dec2024 13:08:59.466] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:gaming_pc_1_light Expected: 1087 Got: 4218
+[08Dec2024 13:08:59.466] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:softbox Expected: 1088 Got: 4219
+[08Dec2024 13:08:59.466] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:softbox_block Expected: 1089 Got: 4220
+[08Dec2024 13:08:59.467] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:softbox_wall Expected: 1090 Got: 4221
+[08Dec2024 13:08:59.467] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:console_1_off Expected: 1091 Got: 4222
+[08Dec2024 13:08:59.467] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:microphoneyetos_off Expected: 1092 Got: 4223
+[08Dec2024 13:08:59.467] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:microphoneyetos_rotated_off Expected: 1093 Got: 4224
+[08Dec2024 13:08:59.467] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:microphoneyetos_rotated_next_off Expected: 1094 Got: 4225
+[08Dec2024 13:08:59.467] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:console_1_type_2_off Expected: 1095 Got: 4226
+[08Dec2024 13:08:59.468] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:playtics_station_off Expected: 1096 Got: 4227
+[08Dec2024 13:08:59.468] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:microphone_eyetos_x_off Expected: 1097 Got: 4228
+[08Dec2024 13:08:59.468] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:player_y_mic_off Expected: 1098 Got: 4229
+[08Dec2024 13:08:59.468] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:player_y_mic_rotated Expected: 1099 Got: 4230
+[08Dec2024 13:08:59.468] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:player_y_mic_rotated_next Expected: 1100 Got: 4231
+[08Dec2024 13:08:59.469] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:player_y_mic_rotated_next_off Expected: 1101 Got: 4232
+[08Dec2024 13:08:59.469] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:player_y_mic_rotated_off Expected: 1102 Got: 4233
+[08Dec2024 13:08:59.469] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:playtics_station_dark_off Expected: 1103 Got: 4234
+[08Dec2024 13:08:59.469] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:playtics_station_slim_off Expected: 1104 Got: 4235
+[08Dec2024 13:08:59.469] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:playtics_station_slim_dark_off Expected: 1105 Got: 4236
+[08Dec2024 13:08:59.469] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:console_1_light_off Expected: 1106 Got: 4237
+[08Dec2024 13:08:59.470] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:console_1_type_2_light_off Expected: 1107 Got: 4238
+[08Dec2024 13:08:59.470] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:modern_office_monitor Expected: 1108 Got: 4239
+[08Dec2024 13:08:59.471] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:modern_tv_on_pc_mode Expected: 1109 Got: 4240
+[08Dec2024 13:08:59.471] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:modern_tv_type_2_on_pc_mode Expected: 1110 Got: 4241
+[08Dec2024 13:08:59.471] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:modern_office_monitor_on Expected: 1111 Got: 4242
+[08Dec2024 13:08:59.471] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:modern_office_monitor_on_screen_2 Expected: 1112 Got: 4243
+[08Dec2024 13:08:59.471] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:modern_office_monitor_lockscreen Expected: 1113 Got: 4244
+[08Dec2024 13:08:59.471] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:modern_office_monitor_lockscreen_style_2 Expected: 1114 Got: 4245
+[08Dec2024 13:08:59.472] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:keyboard_pt Expected: 1115 Got: 4246
+[08Dec2024 13:08:59.472] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:keyboard_pt_off Expected: 1116 Got: 4247
+[08Dec2024 13:08:59.473] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:keyboard_pt_blue Expected: 1117 Got: 4248
+[08Dec2024 13:08:59.473] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:keyboard_pt_red Expected: 1118 Got: 4249
+[08Dec2024 13:08:59.473] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:keyboard_pt_white Expected: 1119 Got: 4250
+[08Dec2024 13:08:59.473] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:keyboard_pt_light Expected: 1120 Got: 4251
+[08Dec2024 13:08:59.473] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:keyboard_pt_light_off Expected: 1121 Got: 4252
+[08Dec2024 13:08:59.474] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:keyboard_pt_light_blue Expected: 1122 Got: 4253
+[08Dec2024 13:08:59.474] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:keyboard_pt_light_red Expected: 1123 Got: 4254
+[08Dec2024 13:08:59.474] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:keyboard_pt_light_yellow Expected: 1124 Got: 4255
+[08Dec2024 13:08:59.474] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:keyboard_1 Expected: 1125 Got: 4256
+[08Dec2024 13:08:59.474] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:keyboard_1_off Expected: 1126 Got: 4257
+[08Dec2024 13:08:59.474] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:keyboard_1_light Expected: 1127 Got: 4258
+[08Dec2024 13:08:59.475] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: gamingdeco:keyboard_1_light_off Expected: 1128 Got: 4259
+[08Dec2024 13:08:59.475] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:laptopblack Expected: 1129 Got: 4260
+[08Dec2024 13:08:59.475] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:laptopsilver Expected: 1130 Got: 4261
+[08Dec2024 13:08:59.476] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:devicespcbudget Expected: 1131 Got: 4262
+[08Dec2024 13:08:59.477] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:devicespcgaming Expected: 1132 Got: 4263
+[08Dec2024 13:08:59.477] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:devicespcmodern Expected: 1133 Got: 4264
+[08Dec2024 13:08:59.477] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:consoleps_4 Expected: 1134 Got: 4265
+[08Dec2024 13:08:59.478] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:consolexboxx Expected: 1135 Got: 4266
+[08Dec2024 13:08:59.479] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:consoleps_5 Expected: 1136 Got: 4267
+[08Dec2024 13:08:59.479] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:devicesdesktopgames Expected: 1137 Got: 4268
+[08Dec2024 13:08:59.479] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:tvminidesktop Expected: 1138 Got: 4269
+[08Dec2024 13:08:59.480] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:tvminimounted Expected: 1139 Got: 4270
+[08Dec2024 13:08:59.480] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:tv Expected: 1140 Got: 4271
+[08Dec2024 13:08:59.480] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:pcmodern Expected: 1141 Got: 4272
+[08Dec2024 13:08:59.480] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:pcgaming Expected: 1142 Got: 4273
+[08Dec2024 13:08:59.480] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:devicestv Expected: 1143 Got: 4274
+[08Dec2024 13:08:59.480] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:subwoofer Expected: 1144 Got: 4275
+[08Dec2024 13:08:59.481] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:gamepad Expected: 1145 Got: 4276
+[08Dec2024 13:08:59.481] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:poster Expected: 1146 Got: 4277
+[08Dec2024 13:08:59.481] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:poster_2 Expected: 1147 Got: 4278
+[08Dec2024 13:08:59.481] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:poster_3 Expected: 1148 Got: 4279
+[08Dec2024 13:08:59.481] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:poster_4 Expected: 1149 Got: 4280
+[08Dec2024 13:08:59.482] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:wallclock Expected: 1150 Got: 4281
+[08Dec2024 13:08:59.483] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:laptopwhite Expected: 1151 Got: 4282
+[08Dec2024 13:08:59.483] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:basket Expected: 1152 Got: 4283
+[08Dec2024 13:08:59.484] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:tablet Expected: 1153 Got: 4284
+[08Dec2024 13:08:59.485] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:telephone Expected: 1154 Got: 4285
+[08Dec2024 13:08:59.485] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:poster_5 Expected: 1155 Got: 4286
+[08Dec2024 13:08:59.486] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:poster_6 Expected: 1156 Got: 4287
+[08Dec2024 13:08:59.486] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:nuke Expected: 1157 Got: 4288
+[08Dec2024 13:08:59.486] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:fridge Expected: 1158 Got: 4289
+[08Dec2024 13:08:59.486] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:devicespcgamingwhite Expected: 1159 Got: 4290
+[08Dec2024 13:08:59.487] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:pcgamingwhite Expected: 1160 Got: 4291
+[08Dec2024 13:08:59.487] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:devicesdesktopgameswhite Expected: 1161 Got: 4292
+[08Dec2024 13:08:59.488] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:toilet Expected: 1162 Got: 4293
+[08Dec2024 13:08:59.488] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:toaster Expected: 1163 Got: 4294
+[08Dec2024 13:08:59.488] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:coffeemaker Expected: 1164 Got: 4295
+[08Dec2024 13:08:59.488] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:nintendoswitch Expected: 1165 Got: 4296
+[08Dec2024 13:08:59.488] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:steamdeck Expected: 1166 Got: 4297
+[08Dec2024 13:08:59.488] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:electrickettle Expected: 1167 Got: 4298
+[08Dec2024 13:08:59.488] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:vasecamomile Expected: 1168 Got: 4299
+[08Dec2024 13:08:59.489] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:vaselargeleaves Expected: 1169 Got: 4300
+[08Dec2024 13:08:59.489] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:platecookies Expected: 1170 Got: 4301
+[08Dec2024 13:08:59.489] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:tablelamp Expected: 1171 Got: 4302
+[08Dec2024 13:08:59.489] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:stridertoy Expected: 1172 Got: 4303
+[08Dec2024 13:08:59.489] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:endermantoy Expected: 1173 Got: 4304
+[08Dec2024 13:08:59.489] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:wardentoy Expected: 1174 Got: 4305
+[08Dec2024 13:08:59.489] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:irongolemtoy Expected: 1175 Got: 4306
+[08Dec2024 13:08:59.490] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:smartspeakeralice Expected: 1176 Got: 4307
+[08Dec2024 13:08:59.490] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:robotvacuum Expected: 1177 Got: 4308
+[08Dec2024 13:08:59.490] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:rollpaper Expected: 1178 Got: 4309
+[08Dec2024 13:08:59.490] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:carpetblueblock Expected: 1179 Got: 4310
+[08Dec2024 13:08:59.490] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:carpetbrownblock Expected: 1180 Got: 4311
+[08Dec2024 13:08:59.493] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:carpetgreenblock Expected: 1181 Got: 4312
+[08Dec2024 13:08:59.493] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:carpetsilverblock Expected: 1182 Got: 4313
+[08Dec2024 13:08:59.493] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:gamepadblack Expected: 1183 Got: 4314
+[08Dec2024 13:08:59.493] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:pudgetoy Expected: 1184 Got: 4315
+[08Dec2024 13:08:59.494] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:graphictablet Expected: 1185 Got: 4316
+[08Dec2024 13:08:59.494] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:multicooker Expected: 1186 Got: 4317
+[08Dec2024 13:08:59.494] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:consoleps_5pro Expected: 1187 Got: 4318
+[08Dec2024 13:08:59.494] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:poster_7 Expected: 1188 Got: 4319
+[08Dec2024 13:08:59.495] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:poster_8 Expected: 1189 Got: 4320
+[08Dec2024 13:08:59.495] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:armchair Expected: 1190 Got: 4321
+[08Dec2024 13:08:59.495] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:armchair_2 Expected: 1191 Got: 4322
+[08Dec2024 13:08:59.495] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:wheel_block Expected: 1192 Got: 4323
+[08Dec2024 13:08:59.495] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:glasstable Expected: 1193 Got: 4324
+[08Dec2024 13:08:59.496] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:glass_table_2 Expected: 1194 Got: 4325
+[08Dec2024 13:08:59.496] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: moderndeco:carpetpurpleblock Expected: 1195 Got: 4326
+[08Dec2024 13:08:59.498] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:flat_screen_monitor_obs Expected: 1289 Got: 1302
+[08Dec2024 13:08:59.498] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:flat_screen_monitor_turned_right_obs Expected: 1290 Got: 1303
+[08Dec2024 13:08:59.498] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:flat_screen_monitor_turned_left_obs Expected: 1291 Got: 1304
+[08Dec2024 13:08:59.498] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:flatscreenmonitorsmall Expected: 1292 Got: 1305
+[08Dec2024 13:08:59.498] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:asas_gaming_monitor_off Expected: 1293 Got: 1306
+[08Dec2024 13:08:59.498] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:gaming_monitor_curved_nsi_off Expected: 1294 Got: 1307
+[08Dec2024 13:08:59.498] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:webcam Expected: 1295 Got: 1308
+[08Dec2024 13:08:59.498] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:asas_gaming_monitor_packaging_box Expected: 1296 Got: 1309
+[08Dec2024 13:08:59.499] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:eyetos_packaging_box Expected: 1297 Got: 1310
+[08Dec2024 13:08:59.499] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:circuitboard Expected: 1298 Got: 1311
+[08Dec2024 13:08:59.499] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:screencomponent Expected: 1299 Got: 1312
+[08Dec2024 13:08:59.499] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:modinfo Expected: 1300 Got: 1313
+[08Dec2024 13:08:59.500] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:gaming_pc_1_off Expected: 1301 Got: 1314
+[08Dec2024 13:08:59.500] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:gaming_pc_1_light_off Expected: 1302 Got: 1315
+[08Dec2024 13:08:59.501] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:mmd_gaming_laptop_open_off Expected: 1303 Got: 1316
+[08Dec2024 13:08:59.501] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:grafikkarte_light_block Expected: 1304 Got: 1317
+[08Dec2024 13:08:59.501] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:grafikkarte_dark_block Expected: 1305 Got: 1318
+[08Dec2024 13:08:59.502] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:mainboard_block_cooler Expected: 1306 Got: 1319
+[08Dec2024 13:08:59.502] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:pc_parts Expected: 1307 Got: 1320
+[08Dec2024 13:08:59.502] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:mainboard_block_cooler_light Expected: 1308 Got: 1321
+[08Dec2024 13:08:59.503] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:pc_parts_light Expected: 1309 Got: 1322
+[08Dec2024 13:08:59.503] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:softbox_bottom Expected: 1310 Got: 1323
+[08Dec2024 13:08:59.504] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:softbox_middle Expected: 1311 Got: 1324
+[08Dec2024 13:08:59.504] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:softbox_off Expected: 1312 Got: 1325
+[08Dec2024 13:08:59.505] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:softbox_block_off Expected: 1313 Got: 1326
+[08Dec2024 13:08:59.505] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:softbox_wall_off Expected: 1314 Got: 1327
+[08Dec2024 13:08:59.505] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:modern_tv Expected: 1315 Got: 1328
+[08Dec2024 13:08:59.506] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:modern_tv_type_2 Expected: 1316 Got: 1329
+[08Dec2024 13:08:59.506] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:modern_tv_on Expected: 1317 Got: 1330
+[08Dec2024 13:08:59.506] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:modern_tv_type_2_on Expected: 1318 Got: 1331
+[08Dec2024 13:08:59.507] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:soundbar_left Expected: 1319 Got: 1332
+[08Dec2024 13:08:59.508] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:soundbar_right Expected: 1320 Got: 1333
+[08Dec2024 13:08:59.509] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:soundbar_right_cable Expected: 1321 Got: 1334
+[08Dec2024 13:08:59.509] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:console_1 Expected: 1322 Got: 1335
+[08Dec2024 13:08:59.510] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:console_1_type_2 Expected: 1323 Got: 1336
+[08Dec2024 13:08:59.510] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:console_1_light Expected: 1324 Got: 1337
+[08Dec2024 13:08:59.511] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:console_1_type_2_light Expected: 1325 Got: 1338
+[08Dec2024 13:08:59.511] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:playtics_station Expected: 1326 Got: 1339
+[08Dec2024 13:08:59.511] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:playtics_station_dark Expected: 1327 Got: 1340
+[08Dec2024 13:08:59.512] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:playtics_station_slim Expected: 1328 Got: 1341
+[08Dec2024 13:08:59.512] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:playtics_station_slim_dark Expected: 1329 Got: 1342
+[08Dec2024 13:08:59.513] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:microphoneyetos Expected: 1330 Got: 1343
+[08Dec2024 13:08:59.513] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:microphone_eyetos_x Expected: 1331 Got: 1344
+[08Dec2024 13:08:59.513] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:player_y_mic Expected: 1332 Got: 1345
+[08Dec2024 13:08:59.513] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:alpha_7_4 Expected: 1333 Got: 1346
+[08Dec2024 13:08:59.513] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:playtics_station_next_gen Expected: 1334 Got: 1347
+[08Dec2024 13:08:59.514] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:playtics_station_next_gen_off Expected: 1335 Got: 1348
+[08Dec2024 13:08:59.514] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:alpha_7_4_ob_medium Expected: 1336 Got: 1349
+[08Dec2024 13:08:59.514] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:alpha_7_4_ob_small Expected: 1337 Got: 1350
+[08Dec2024 13:08:59.515] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:sensor_board Expected: 1338 Got: 1351
+[08Dec2024 13:08:59.515] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:hex_pt Expected: 1339 Got: 1352
+[08Dec2024 13:08:59.515] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:ob_medium Expected: 1340 Got: 1353
+[08Dec2024 13:08:59.515] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:ob_small Expected: 1341 Got: 1354
+[08Dec2024 13:08:59.515] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:playtics_station_next_gen_dark Expected: 1342 Got: 1355
+[08Dec2024 13:08:59.515] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:playtics_station_next_gen_off_dark Expected: 1343 Got: 1356
+[08Dec2024 13:08:59.516] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:playtics_station_next_gen_type_2 Expected: 1344 Got: 1357
+[08Dec2024 13:08:59.516] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:playtics_station_next_gen_type_2_off Expected: 1345 Got: 1358
+[08Dec2024 13:08:59.516] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:playtics_station_next_gen_type_2_dark Expected: 1346 Got: 1359
+[08Dec2024 13:08:59.516] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:playtics_station_next_gen_type_2_dark_off Expected: 1347 Got: 1360
+[08Dec2024 13:08:59.516] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:microphone_eyetos_x_pop Expected: 1348 Got: 1361
+[08Dec2024 13:08:59.516] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:microphone_eyetos_x_pop_off Expected: 1349 Got: 1362
+[08Dec2024 13:08:59.516] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:plastic_granules Expected: 1350 Got: 1363
+[08Dec2024 13:08:59.517] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:plastic_plate_dark Expected: 1351 Got: 1364
+[08Dec2024 13:08:59.517] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:plastic_plate Expected: 1352 Got: 1365
+[08Dec2024 13:08:59.517] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:flat_screen_monitor Expected: 1353 Got: 1366
+[08Dec2024 13:08:59.517] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:flat_screen_monitor_turned_left Expected: 1354 Got: 1367
+[08Dec2024 13:08:59.517] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:flat_screen_monitor_turned_right Expected: 1355 Got: 1368
+[08Dec2024 13:08:59.518] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:gaming_monitor_curved_nsi Expected: 1356 Got: 1369
+[08Dec2024 13:08:59.518] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:asas_gaming_monitor Expected: 1357 Got: 1370
+[08Dec2024 13:08:59.518] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:gaming_pc_1 Expected: 1358 Got: 1371
+[08Dec2024 13:08:59.518] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:webcam_rotated_left Expected: 1359 Got: 1372
+[08Dec2024 13:08:59.518] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:webcam_rotated_right Expected: 1360 Got: 1373
+[08Dec2024 13:08:59.518] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:microphoneyetos_rotated Expected: 1361 Got: 1374
+[08Dec2024 13:08:59.518] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:mmd_gaming_laptop_open Expected: 1362 Got: 1375
+[08Dec2024 13:08:59.518] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:mmd_gaming_laptop_close Expected: 1363 Got: 1376
+[08Dec2024 13:08:59.519] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:flatscreenmonitorsmallon Expected: 1364 Got: 1377
+[08Dec2024 13:08:59.519] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:microphoneyetos_rotated_next Expected: 1365 Got: 1378
+[08Dec2024 13:08:59.519] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:gaming_pc_1_light Expected: 1366 Got: 1379
+[08Dec2024 13:08:59.519] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:softbox Expected: 1367 Got: 1380
+[08Dec2024 13:08:59.519] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:softbox_block Expected: 1368 Got: 1381
+[08Dec2024 13:08:59.519] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:softbox_wall Expected: 1369 Got: 1382
+[08Dec2024 13:08:59.519] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:console_1_off Expected: 1370 Got: 1383
+[08Dec2024 13:08:59.520] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:microphoneyetos_off Expected: 1371 Got: 1384
+[08Dec2024 13:08:59.520] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:microphoneyetos_rotated_off Expected: 1372 Got: 1385
+[08Dec2024 13:08:59.520] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:microphoneyetos_rotated_next_off Expected: 1373 Got: 1386
+[08Dec2024 13:08:59.520] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:console_1_type_2_off Expected: 1374 Got: 1387
+[08Dec2024 13:08:59.521] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:playtics_station_off Expected: 1375 Got: 1388
+[08Dec2024 13:08:59.521] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:microphone_eyetos_x_off Expected: 1376 Got: 1389
+[08Dec2024 13:08:59.521] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:player_y_mic_off Expected: 1377 Got: 1390
+[08Dec2024 13:08:59.522] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:player_y_mic_rotated Expected: 1378 Got: 1391
+[08Dec2024 13:08:59.522] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:player_y_mic_rotated_next Expected: 1379 Got: 1392
+[08Dec2024 13:08:59.522] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:player_y_mic_rotated_next_off Expected: 1380 Got: 1393
+[08Dec2024 13:08:59.524] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:player_y_mic_rotated_off Expected: 1381 Got: 1394
+[08Dec2024 13:08:59.524] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:playtics_station_dark_off Expected: 1382 Got: 1395
+[08Dec2024 13:08:59.525] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:playtics_station_slim_off Expected: 1383 Got: 1396
+[08Dec2024 13:08:59.525] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:playtics_station_slim_dark_off Expected: 1384 Got: 1397
+[08Dec2024 13:08:59.525] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:console_1_light_off Expected: 1385 Got: 1398
+[08Dec2024 13:08:59.525] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:console_1_type_2_light_off Expected: 1386 Got: 1399
+[08Dec2024 13:08:59.525] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:oled_panel Expected: 1387 Got: 1400
+[08Dec2024 13:08:59.525] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:speaker Expected: 1388 Got: 1401
+[08Dec2024 13:08:59.525] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:modern_office_monitor Expected: 1389 Got: 1402
+[08Dec2024 13:08:59.525] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:modern_tv_on_pc_mode Expected: 1390 Got: 1403
+[08Dec2024 13:08:59.525] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:modern_tv_type_2_on_pc_mode Expected: 1391 Got: 1404
+[08Dec2024 13:08:59.525] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:modern_office_monitor_on Expected: 1392 Got: 1405
+[08Dec2024 13:08:59.526] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:modern_office_monitor_on_screen_2 Expected: 1393 Got: 1406
+[08Dec2024 13:08:59.526] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:modern_office_monitor_lockscreen Expected: 1394 Got: 1407
+[08Dec2024 13:08:59.526] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:modern_office_monitor_lockscreen_style_2 Expected: 1395 Got: 1408
+[08Dec2024 13:08:59.526] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:keyboard_pt Expected: 1396 Got: 1409
+[08Dec2024 13:08:59.526] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:keyboard_pt_off Expected: 1397 Got: 1410
+[08Dec2024 13:08:59.526] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:keyboard_pt_blue Expected: 1398 Got: 1411
+[08Dec2024 13:08:59.526] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:keyboard_pt_red Expected: 1399 Got: 1412
+[08Dec2024 13:08:59.526] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:keyboard_pt_white Expected: 1400 Got: 1413
+[08Dec2024 13:08:59.526] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:keyboard_pt_light Expected: 1401 Got: 1414
+[08Dec2024 13:08:59.526] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:keyboard_pt_light_off Expected: 1402 Got: 1415
+[08Dec2024 13:08:59.526] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:keyboard_pt_light_blue Expected: 1403 Got: 1416
+[08Dec2024 13:08:59.527] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:keyboard_pt_light_red Expected: 1404 Got: 1417
+[08Dec2024 13:08:59.527] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:keyboard_pt_light_yellow Expected: 1405 Got: 1418
+[08Dec2024 13:08:59.527] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:keyboard_1 Expected: 1406 Got: 1419
+[08Dec2024 13:08:59.527] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:keyboard_1_off Expected: 1407 Got: 1420
+[08Dec2024 13:08:59.527] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:keyboard_1_light Expected: 1408 Got: 1421
+[08Dec2024 13:08:59.527] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:keyboard_1_light_off Expected: 1409 Got: 1422
+[08Dec2024 13:08:59.527] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: gamingdeco:popschutz Expected: 1410 Got: 1423
+[08Dec2024 13:08:59.527] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:laptopblack Expected: 1423 Got: 1424
+[08Dec2024 13:08:59.527] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:laptopsilver Expected: 1424 Got: 1425
+[08Dec2024 13:08:59.527] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:devicespcbudget Expected: 1425 Got: 1426
+[08Dec2024 13:08:59.527] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:devicespcgaming Expected: 1426 Got: 1427
+[08Dec2024 13:08:59.528] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:devicespcmodern Expected: 1427 Got: 1428
+[08Dec2024 13:08:59.528] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:consoleps_4 Expected: 1428 Got: 1429
+[08Dec2024 13:08:59.528] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:consolexboxx Expected: 1429 Got: 1430
+[08Dec2024 13:08:59.528] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:consoleps_5 Expected: 1430 Got: 1431
+[08Dec2024 13:08:59.528] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:devicesdesktopgames Expected: 1431 Got: 1432
+[08Dec2024 13:08:59.528] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:tvminidesktop Expected: 1432 Got: 1433
+[08Dec2024 13:08:59.528] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:tvminimounted Expected: 1433 Got: 1434
+[08Dec2024 13:08:59.528] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:tv Expected: 1434 Got: 1435
+[08Dec2024 13:08:59.528] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:pcmodern Expected: 1435 Got: 1436
+[08Dec2024 13:08:59.528] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:pcgaming Expected: 1436 Got: 1437
+[08Dec2024 13:08:59.528] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:devicestv Expected: 1437 Got: 1438
+[08Dec2024 13:08:59.529] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:subwoofer Expected: 1438 Got: 1439
+[08Dec2024 13:08:59.529] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:gamepad Expected: 1439 Got: 1440
+[08Dec2024 13:08:59.529] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:poster Expected: 1440 Got: 1441
+[08Dec2024 13:08:59.529] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:poster_2 Expected: 1441 Got: 1442
+[08Dec2024 13:08:59.529] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:poster_3 Expected: 1442 Got: 1443
+[08Dec2024 13:08:59.529] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:poster_4 Expected: 1443 Got: 1444
+[08Dec2024 13:08:59.529] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:wallclock Expected: 1444 Got: 1445
+[08Dec2024 13:08:59.529] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:laptopwhite Expected: 1445 Got: 1446
+[08Dec2024 13:08:59.529] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:basket Expected: 1446 Got: 1447
+[08Dec2024 13:08:59.529] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:tablet Expected: 1447 Got: 1448
+[08Dec2024 13:08:59.529] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:telephone Expected: 1448 Got: 1449
+[08Dec2024 13:08:59.530] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:poster_5 Expected: 1449 Got: 1450
+[08Dec2024 13:08:59.530] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:poster_6 Expected: 1450 Got: 1451
+[08Dec2024 13:08:59.530] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:nuke Expected: 1451 Got: 1452
+[08Dec2024 13:08:59.530] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:fridge Expected: 1452 Got: 1453
+[08Dec2024 13:08:59.530] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:devicespcgamingwhite Expected: 1453 Got: 1454
+[08Dec2024 13:08:59.530] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:pcgamingwhite Expected: 1454 Got: 1455
+[08Dec2024 13:08:59.530] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:devicesdesktopgameswhite Expected: 1455 Got: 1456
+[08Dec2024 13:08:59.530] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:toilet Expected: 1456 Got: 1457
+[08Dec2024 13:08:59.530] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:toaster Expected: 1457 Got: 1458
+[08Dec2024 13:08:59.530] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:coffeemaker Expected: 1458 Got: 1459
+[08Dec2024 13:08:59.531] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:nintendoswitch Expected: 1459 Got: 1460
+[08Dec2024 13:08:59.531] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:steamdeck Expected: 1460 Got: 1461
+[08Dec2024 13:08:59.531] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:electrickettle Expected: 1461 Got: 1462
+[08Dec2024 13:08:59.531] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:vasecamomile Expected: 1462 Got: 1463
+[08Dec2024 13:08:59.531] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:vaselargeleaves Expected: 1463 Got: 1464
+[08Dec2024 13:08:59.531] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:platecookies Expected: 1464 Got: 1465
+[08Dec2024 13:08:59.531] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:tablelamp Expected: 1465 Got: 1466
+[08Dec2024 13:08:59.531] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:stridertoy Expected: 1466 Got: 1467
+[08Dec2024 13:08:59.531] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:endermantoy Expected: 1467 Got: 1468
+[08Dec2024 13:08:59.531] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:wardentoy Expected: 1468 Got: 1469
+[08Dec2024 13:08:59.531] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:irongolemtoy Expected: 1469 Got: 1470
+[08Dec2024 13:08:59.532] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:smartspeakeralice Expected: 1470 Got: 1471
+[08Dec2024 13:08:59.532] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:robotvacuum Expected: 1471 Got: 1472
+[08Dec2024 13:08:59.532] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:rollpaper Expected: 1472 Got: 1473
+[08Dec2024 13:08:59.535] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:carpetblueblock Expected: 1473 Got: 1474
+[08Dec2024 13:08:59.535] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:carpetbrownblock Expected: 1474 Got: 1475
+[08Dec2024 13:08:59.535] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:carpetgreenblock Expected: 1475 Got: 1476
+[08Dec2024 13:08:59.535] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:carpetsilverblock Expected: 1476 Got: 1477
+[08Dec2024 13:08:59.535] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:gamepadblack Expected: 1477 Got: 1478
+[08Dec2024 13:08:59.536] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:pudgetoy Expected: 1478 Got: 1479
+[08Dec2024 13:08:59.536] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:graphictablet Expected: 1479 Got: 1480
+[08Dec2024 13:08:59.536] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:processor Expected: 1480 Got: 1481
+[08Dec2024 13:08:59.536] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:systemboard Expected: 1481 Got: 1482
+[08Dec2024 13:08:59.537] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:systemboardhighquality Expected: 1482 Got: 1483
+[08Dec2024 13:08:59.537] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:systemboardimproved Expected: 1483 Got: 1484
+[08Dec2024 13:08:59.537] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:multicooker Expected: 1484 Got: 1485
+[08Dec2024 13:08:59.537] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:consoleps_5pro Expected: 1485 Got: 1486
+[08Dec2024 13:08:59.539] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:poster_7 Expected: 1486 Got: 1487
+[08Dec2024 13:08:59.539] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:poster_8 Expected: 1487 Got: 1488
+[08Dec2024 13:08:59.539] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:armchair Expected: 1488 Got: 1489
+[08Dec2024 13:08:59.540] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:armchair_2 Expected: 1489 Got: 1490
+[08Dec2024 13:08:59.540] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:wheel_block Expected: 1490 Got: 1491
+[08Dec2024 13:08:59.540] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:glasstable Expected: 1491 Got: 1492
+[08Dec2024 13:08:59.540] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:glass_table_2 Expected: 1492 Got: 1493
+[08Dec2024 13:08:59.540] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: moderndeco:carpetpurpleblock Expected: 1493 Got: 1494
+[08Dec2024 13:08:59.701] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Bayville-DE/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[08Dec2024 13:08:59.701] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Bayville-DE/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[08Dec2024 13:08:59.785] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.7.11 Target: 0.7.12
+[08Dec2024 13:08:59.786] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[08Dec2024 13:08:59.916] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
+[08Dec2024 13:08:59.917] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [packetfixer] Starting version check at https://api.modrinth.com/updates/packet-fixer/forge_updates.json
+[08Dec2024 13:09:00.092] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [packetfixer] Found status: UP_TO_DATE Current: 1.4.2 Target: null
+[08Dec2024 13:09:01.258] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[08Dec2024 13:09:01.483] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:ingots as it is missing following references: #forge:ingots/steel_ingot (from mcore-1.20.1-1.0.2.jar), 
+	#forge:ingots/titanium_ingot (from mcore-1.20.1-1.0.2.jar)
+[08Dec2024 13:09:01.485] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:raw_materials as it is missing following references: #forge:raw_materials/raw_titanium (from mcore-1.20.1-1.0.2.jar)
+[08Dec2024 13:09:01.617] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag bayville:likeair as it is missing following references: minecraft:short_grass (from file/Bayville)
+[08Dec2024 13:09:01.630] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag trafficcraft:plants as it is missing following references: #minecraft:replaceable_plants (from trafficcraft-forge-1.20.1-1.1.0.jar)
+[08Dec2024 13:09:02.173] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:mcore:blocks/steel_stairs
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'mcore:steel_stairs'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23196!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23196!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[08Dec2024 13:09:02.199] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:mcore:blocks/vertical_cut_titanium_block
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'mcore:vertical_cut_titanium_block'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23196!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23196!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[08Dec2024 13:09:02.210] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:mcore:blocks/cut_titanium_block
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'mcore:cut_titanium_block'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23196!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23196!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[08Dec2024 13:09:02.237] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:mcore:blocks/steel_slab
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'mcore:steel_slab'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23196!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23196!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[08Dec2024 13:09:02.272] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:mcore:blocks/titanium_stairs
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'mcore:titanium_stairs'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23196!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23196!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[08Dec2024 13:09:02.437] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe mekanism:enriching/salt as it's serializer returned null
+[08Dec2024 13:09:02.444] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe fbi_swat_armors:shoes: com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
+[08Dec2024 13:09:02.453] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe fbi_swat_armors:swat_helmet: com.google.gson.JsonSyntaxException: Unknown item 'create:sturdy_sheet'
+[08Dec2024 13:09:02.455] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe fbi_swat_armors:swat_bulletproof_vest: com.google.gson.JsonSyntaxException: Unknown item 'create:sturdy_sheet'
+[08Dec2024 13:09:02.458] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ores/bitumen_ore as it's serializer returned null
+[08Dec2024 13:09:02.473] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe mekanism:enriching/deepslate_bitumen_ore as it's serializer returned null
+[08Dec2024 13:09:02.474] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe fbi_swat_armors:fbi_blue_trousers: com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
+[08Dec2024 13:09:02.492] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe mcore:steel_sheet_pressing as it's serializer returned null
+[08Dec2024 13:09:02.495] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe mekanism:enriching/rock_salt as it's serializer returned null
+[08Dec2024 13:09:02.508] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe fbi_swat_armors:fbi_jacket: com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
+[08Dec2024 13:09:02.509] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe fbi_swat_armors:fbi_green_trousers: com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
+[08Dec2024 13:09:02.511] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe fbi_swat_armors:fbi_bulletproof_vest: com.google.gson.JsonSyntaxException: Unknown item 'create:sturdy_sheet'
+[08Dec2024 13:09:02.521] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe mekanism:enriching/bitumen_ore as it's serializer returned null
+[08Dec2024 13:09:02.526] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe fbi_swat_armors:fbi_helmet: com.google.gson.JsonSyntaxException: Unknown item 'create:sturdy_sheet'
+[08Dec2024 13:09:02.527] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe fbi_swat_armors:sunglasses: com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
+[08Dec2024 13:09:02.531] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe thermal:machines/centrifuge/bitumen_ore as it's serializer returned null
+[08Dec2024 13:09:02.535] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe thermal:machines/centrifuge/deepslate_bitumen_ore as it's serializer returned null
+[08Dec2024 13:09:02.541] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe mcore:titanium_sheet_pressing as it's serializer returned null
+[08Dec2024 13:09:02.548] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cuffed:information_booklet: com.google.gson.JsonSyntaxException: Unknown item 'cuffed:information_booklet'
+[08Dec2024 13:09:02.555] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe fbi_swat_armors:swat_trousers: com.google.gson.JsonSyntaxException: Unknown item 'create:iron_sheet'
+[08Dec2024 13:09:02.563] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 21 recipes
+[08Dec2024 13:09:02.709] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2848 advancements
+[08Dec2024 13:09:02.722] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
+[08Dec2024 13:09:02.727] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[08Dec2024 13:09:02.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[08Dec2024 13:09:02.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[08Dec2024 13:09:02.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[08Dec2024 13:09:02.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[08Dec2024 13:09:03.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[08Dec2024 13:09:03.137] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[08Dec2024 13:09:03.245] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08Dec2024 13:09:03.245] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[08Dec2024 13:09:03.246] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08Dec2024 13:09:03.246] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[08Dec2024 13:09:03.259] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/cuffed-server.toml is not correct. Correcting
+[08Dec2024 13:09:03.259] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Anchoring Settings.Max Chain Length was corrected from 5.0 to its default, 5.0. 
+[08Dec2024 13:09:03.260] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Anchoring Settings.Suffocation Length was corrected from 12.0 to its default, 12.0. 
+[08Dec2024 13:09:03.301] [Server thread/INFO] [Framework/]: Loading server configs...
+[08Dec2024 13:09:03.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[08Dec2024 13:09:03.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[08Dec2024 13:09:04.169] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[08Dec2024 13:09:05.217] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Dec2024 13:09:05.218] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Dec2024 13:09:05.218] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Dec2024 13:09:05.345] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Dec2024 13:09:05.831] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 93%
+[08Dec2024 13:09:06.425] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2594 ms
+[08Dec2024 13:09:06.426] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.168s)! For help, type "help"
+[08Dec2024 13:09:06.498] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: CustomNPC PermissionNode<Boolean>s available:
+[08Dec2024 13:09:06.499] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.edit.blocks
+[08Dec2024 13:09:06.500] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.edit.villager
+[08Dec2024 13:09:06.501] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.bank
+[08Dec2024 13:09:06.501] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.dialog
+[08Dec2024 13:09:06.502] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.faction
+[08Dec2024 13:09:06.502] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.linked
+[08Dec2024 13:09:06.503] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.naturalspawn
+[08Dec2024 13:09:06.503] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.playerdata
+[08Dec2024 13:09:06.505] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.quest
+[08Dec2024 13:09:06.506] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.recipe
+[08Dec2024 13:09:06.506] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.transport
+[08Dec2024 13:09:06.507] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.advanced
+[08Dec2024 13:09:06.507] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.ai
+[08Dec2024 13:09:06.508] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.clone
+[08Dec2024 13:09:06.508] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.create
+[08Dec2024 13:09:06.508] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.delete
+[08Dec2024 13:09:06.509] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.display
+[08Dec2024 13:09:06.509] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.freeze
+[08Dec2024 13:09:06.510] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.gui
+[08Dec2024 13:09:06.510] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.inventory
+[08Dec2024 13:09:06.511] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.reset
+[08Dec2024 13:09:06.511] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.stats
+[08Dec2024 13:09:06.512] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.scenes
+[08Dec2024 13:09:06.512] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.soulstone.all
+[08Dec2024 13:09:06.512] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.spawner.create
+[08Dec2024 13:09:06.513] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.spawner.mob
+[08Dec2024 13:09:06.513] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.mounter
+[08Dec2024 13:09:06.513] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.nbtbook
+[08Dec2024 13:09:06.514] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.pather
+[08Dec2024 13:09:06.514] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.scripter
+[08Dec2024 13:09:06.515] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[08Dec2024 13:09:06.519] [Server thread/INFO] [DragonLib/]: Starting DragonLib Network Manager (Server) worker thread...
+[08Dec2024 13:09:06.520] [Server thread/INFO] [cuffed/]: Running server setup for Cuffed
+[08Dec2024 13:09:06.520] [DragonLib Network Manager (Server)/INFO] [DragonLib/]: DragonLib Network Manager (Server) worker thread has been started.
+[08Dec2024 13:09:08.924] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: betterfpsdist.json
+[08Dec2024 13:09:08.943] [Server thread/WARN] [ModernFix/]: Dedicated server took 28.751 seconds to load
+[08Dec2024 13:10:37.398] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Momo93bg[/127.189.193.26:52371] logged in with entity id 358 at (64.43425507282387, 13.0, 72.15141264731952)
+[08Dec2024 13:10:37.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg joined the game
+[08Dec2024 13:11:19.585] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Imranack[/127.189.193.26:37945] logged in with entity id 435 at (136.44277965214957, 13.0, 45.1815993023879)
+[08Dec2024 13:11:19.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack joined the game
+[08Dec2024 13:11:35.850] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/437, l='ServerLevel[world]', x=56.51, y=13.00, z=135.49] died, message: 'Armorer was killed'
+[08Dec2024 13:11:35.852] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/439, l='ServerLevel[world]', x=54.60, y=13.00, z=136.55] died, message: 'Armorer was killed'
+[08Dec2024 13:12:31.160] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElRichMC[/127.35.8.153:37531] logged in with entity id 502 at (213.89359583680744, 12.0, -12.475961927082178)
+[08Dec2024 13:12:31.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElRichMC joined the game
+[08Dec2024 13:12:46.909] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gaga[/127.192.152.132:58385] logged in with entity id 513 at (72.30000001192093, 11.0, 295.69999998807907)
+[08Dec2024 13:12:46.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gaga joined the game
+[08Dec2024 13:13:05.964] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:13:14.364] [Server thread/INFO] [cuffed/]: ElRichMC is interacting!
+[08Dec2024 13:13:42.557] [Server thread/INFO] [cuffed/]: ElRichMC is interacting!
+[08Dec2024 13:13:47.405] [Server thread/INFO] [cuffed/]: ElRichMC is interacting!
+[08Dec2024 13:13:57.406] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:14:25.052] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 13:14:26.404] [Server thread/INFO] [cuffed/]: ElRichMC is interacting!
+[08Dec2024 13:14:28.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[08Dec2024 13:14:37.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[08Dec2024 13:15:07.057] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 13:15:07.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Teleported Imranack to Gaga]
+[08Dec2024 13:15:26.706] [Server thread/INFO] [cuffed/]: ElRichMC is interacting!
+[08Dec2024 13:15:29.796] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/616, l='ServerLevel[world]', x=56.64, y=13.00, z=136.55] died, message: 'Armorer was killed'
+[08Dec2024 13:15:29.797] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/618, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[08Dec2024 13:15:39.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[08Dec2024 13:16:38.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[08Dec2024 13:16:45.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[08Dec2024 13:16:47.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[08Dec2024 13:17:03.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[08Dec2024 13:17:16.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set Gaga's game mode to Creative Mode]
+[08Dec2024 13:17:18.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set Momo93bg's game mode to Creative Mode]
+[08Dec2024 13:17:54.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Remove nearby vehicles: Modified entity data of Remove nearby vehicles]
+[08Dec2024 13:17:54.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Remove nearby vehicles: Modified entity data of Remove nearby vehicles]
+[08Dec2024 13:17:54.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Remove nearby vehicles: Modified entity data of Remove nearby vehicles]
+[08Dec2024 13:17:54.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Remove nearby vehicles: Modified entity data of Remove nearby vehicles]
+[08Dec2024 13:17:54.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Remove nearby vehicles: Modified entity data of Remove nearby vehicles]
+[08Dec2024 13:17:54.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Remove nearby vehicles: Modified entity data of Remove nearby vehicles]
+[08Dec2024 13:17:54.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Remove nearby vehicles: Modified entity data of Remove nearby vehicles]
+[08Dec2024 13:17:54.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Remove nearby vehicles: Modified entity data of Remove nearby vehicles]
+[08Dec2024 13:17:54.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Remove nearby vehicles: Modified entity data of Remove nearby vehicles]
+[08Dec2024 13:17:54.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Remove nearby vehicles: Modified entity data of Remove nearby vehicles]
+[08Dec2024 13:17:54.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Remove nearby vehicles: Modified entity data of Remove nearby vehicles]
+[08Dec2024 13:17:54.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Remove nearby vehicles: Modified entity data of Remove nearby vehicles]
+[08Dec2024 13:17:54.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Remove nearby vehicles: Modified entity data of Remove nearby vehicles]
+[08Dec2024 13:17:54.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Remove nearby vehicles: Modified entity data of Remove nearby vehicles]
+[08Dec2024 13:17:54.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Remove nearby vehicles: Modified entity data of Remove nearby vehicles]
+[08Dec2024 13:17:54.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Remove nearby vehicles: Modified entity data of Remove nearby vehicles]
+[08Dec2024 13:17:54.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Remove nearby vehicles: Modified entity data of Remove nearby vehicles]
+[08Dec2024 13:17:54.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Remove nearby vehicles: Modified entity data of Remove nearby vehicles]
+[08Dec2024 13:17:54.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gas station: Modified entity data of Gas station]
+[08Dec2024 13:17:54.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gas station: Modified entity data of Gas station]
+[08Dec2024 13:17:54.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gas station: Modified entity data of Gas station]
+[08Dec2024 13:17:54.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:17:54.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armor Stand: Modified entity data of Armor Stand]
+[08Dec2024 13:18:19.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
