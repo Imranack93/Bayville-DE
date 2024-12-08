@@ -2282,6 +2282,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-08 14:11:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2024-12-08 14:11:56 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_storage_cabinet": {
     "criteria": {
       "has_wooden_kitchen_storage_cabinets": "2024-12-08 13:31:29 +0000"
@@ -2309,6 +2321,12 @@
   "refurbished_furniture:recipes/decorations/dark_microwave": {
     "criteria": {
       "has_microwave": "2024-12-08 13:31:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-08 14:11:56 +0000"
     },
     "done": true
   },
@@ -2354,6 +2372,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-08 14:11:15 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_kitchen_storage_cabinet": {
     "criteria": {
       "has_wooden_kitchen_storage_cabinets": "2024-12-08 13:31:29 +0000"
@@ -2372,6 +2396,12 @@
       "bread": "2024-12-08 13:57:00 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-08 14:11:15 +0000"
+    },
+    "done": true
   },
   "refurbished_furniture:recipes/misc/constructing/pink_kitchen_storage_cabinet": {
     "criteria": {

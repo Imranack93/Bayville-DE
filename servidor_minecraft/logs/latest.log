@@ -1265,3 +1265,78 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Dec2024 14:08:00.984] [Server thread/INFO] [cuffed/]: Gaga is interacting!
 [08Dec2024 14:08:42.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gaga has completed the challenge [Serious Dedication]
 [08Dec2024 14:09:18.723] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[08Dec2024 14:10:26.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Momo93bg: Triggered [tr] (set value to 355)]
+[08Dec2024 14:10:43.340] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:10:43.522] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:10:54.850] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack lost connection: Timed out
+[08Dec2024 14:10:54.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack left the game
+[08Dec2024 14:11:23.857] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:11:23.986] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Imranack[/127.189.193.26:39371] logged in with entity id 4500 at (-74.60781939931523, 13.0, 272.95909209362026)
+[08Dec2024 14:11:24.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack joined the game
+[08Dec2024 14:11:24.235] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:11:24.380] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:11:24.630] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:11:24.803] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:11:25.236] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:11:26.052] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:11:26.234] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:12:08.503] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[08Dec2024 14:12:28.430] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:12:28.639] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:12:28.784] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:12:28.988] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:12:29.156] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:12:29.356] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:12:29.481] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:12:29.665] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:12:30.703] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 14:12:30.955] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:12:31.582] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:12:32.173] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:12:33.273] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:12:33.455] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:12:33.592] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:12:34.955] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[08Dec2024 14:12:40.031] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[08Dec2024 14:13:17.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [commencer_vol] (set value to 1)]
+[08Dec2024 14:13:17.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Momo93bg: Triggered [commencer_vol] (set value to 1)]
+[08Dec2024 14:13:18.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Momo93bg: Triggered [commencer_vol] (set value to 1)]
+[08Dec2024 14:13:21.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Momo93bg: Triggered [commencer_vol] (set value to 1)]
+[08Dec2024 14:13:31.554] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[08Dec2024 14:13:34.219] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[08Dec2024 14:13:34.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [commencer_vol] (set value to 1)]
+[08Dec2024 14:13:40.608] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[08Dec2024 14:14:12.969] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[08Dec2024 14:14:13.719] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[08Dec2024 14:14:23.359] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[08Dec2024 14:14:27.951] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/4729, l='ServerLevel[world]', x=96.55, y=13.10, z=-59.55] died, message: 'Fisherman was killed'
+[08Dec2024 14:14:55.776] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:16:28.570] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:16:33.573] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:16:34.321] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:16:45.996] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/4879, l='ServerLevel[world]', x=-103.50, y=15.00, z=85.50] died, message: 'Butcher was killed'
+[08Dec2024 14:16:52.482] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:16:54.421] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:16:58.075] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:16:59.276] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[08Dec2024 14:17:05.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [commencer_vol] (set value to 1)]
+[08Dec2024 14:17:06.470] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:17:23.993] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:17:32.245] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/4966, l='ServerLevel[world]', x=-103.50, y=15.00, z=85.50] died, message: 'Butcher was killed'
+[08Dec2024 14:17:39.123] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[08Dec2024 14:17:39.352] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[08Dec2024 14:17:39.551] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[08Dec2024 14:17:39.785] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[08Dec2024 14:17:39.956] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[08Dec2024 14:17:40.134] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[08Dec2024 14:17:46.676] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:17:52.180] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:18:06.027] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:18:44.217] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:18:45.530] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:18:54.905] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=113, y=11, z=297} BlockPos{x=114, y=11, z=296}
+[08Dec2024 14:18:55.655] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=114, y=11, z=298} BlockPos{x=112, y=10, z=298}
+[08Dec2024 14:18:55.715] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=114, y=11, z=298} BlockPos{x=112, y=10, z=298}
+[08Dec2024 14:18:56.833] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[08Dec2024 14:18:58.798] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/5208, l='ServerLevel[world]', x=95.50, y=13.10, z=-58.50] died, message: 'Fisherman was killed'
+[08Dec2024 14:19:01.197] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/5210, l='ServerLevel[world]', x=95.50, y=13.10, z=-58.50] died, message: 'Fisherman was killed'
