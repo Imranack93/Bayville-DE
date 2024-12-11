@@ -869,3 +869,231 @@ Pouvoir de procéder à des identifications sans aucune restriction, possibilit�
 [11Dec2024 12:00:28.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg left the game
 [11Dec2024 12:00:54.213] [Server thread/INFO] [cuffed/]: Gaga is interacting!
 [11Dec2024 12:01:19.726] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@56452f67[id=<null>,name=Momo93bg,properties={},legacy=false] (/127.189.193.26:47989) lost connection: Disconnected
+[11Dec2024 12:01:48.393] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=11, z=294}
+[11Dec2024 12:01:51.713] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=12, z=293}
+[11Dec2024 12:01:53.653] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=13, z=292}
+[11Dec2024 12:01:54.524] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@52cbf77[id=<null>,name=Momo93bg,properties={},legacy=false] (/127.189.193.26:47917): Took too long to log in
+[11Dec2024 12:01:54.526] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@52cbf77[id=<null>,name=Momo93bg,properties={},legacy=false] (/127.189.193.26:47917) lost connection: Took too long to log in
+[11Dec2024 12:01:54.575] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Dec2024 12:01:56.002] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=90, y=12, z=293}
+[11Dec2024 12:01:56.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=89, y=12, z=293}
+[11Dec2024 12:01:56.202] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=89, y=12, z=293}
+[11Dec2024 12:01:56.243] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=89, y=12, z=293}
+[11Dec2024 12:01:56.392] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=90, y=12, z=293}
+[11Dec2024 12:01:56.483] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=90, y=12, z=293}
+[11Dec2024 12:01:56.543] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=89, y=12, z=293}
+[11Dec2024 12:01:56.703] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=89, y=12, z=293}
+[11Dec2024 12:01:56.853] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=89, y=12, z=293}
+[11Dec2024 12:01:56.953] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=89, y=12, z=293}
+[11Dec2024 12:01:57.303] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=90, y=12, z=293}
+[11Dec2024 12:02:17.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=12, z=293}
+[11Dec2024 12:02:17.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=12, z=293}
+[11Dec2024 12:02:18.052] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=12, z=293}
+[11Dec2024 12:02:18.183] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=12, z=293}
+[11Dec2024 12:02:18.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=12, z=293}
+[11Dec2024 12:02:18.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=12, z=293}
+[11Dec2024 12:02:18.643] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=12, z=293}
+[11Dec2024 12:02:18.803] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=12, z=293}
+[11Dec2024 12:02:18.953] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=12, z=293}
+[11Dec2024 12:02:24.034] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Momo93bg[/127.141.120.102:41593] logged in with entity id 6415 at (123.5126184852682, 11.877499842643738, 111.08924926223153)
+[11Dec2024 12:02:24.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg joined the game
+[11Dec2024 12:02:29.478] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 12:02:34.429] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@64e6a1c9[id=<null>,name=Momo93bg,properties={},legacy=false] (/127.141.120.102:44735): Took too long to log in
+[11Dec2024 12:02:34.429] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@64e6a1c9[id=<null>,name=Momo93bg,properties={},legacy=false] (/127.141.120.102:44735) lost connection: Took too long to log in
+[11Dec2024 12:02:34.479] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Dec2024 12:02:47.919] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6486, l='ServerLevel[world]', x=-24.50, y=3.00, z=163.50] died, message: 'Villager was killed'
+[11Dec2024 12:02:51.118] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/6482, l='ServerLevel[world]', x=51.30, y=13.00, z=134.50] died, message: 'Armorer was killed'
+[11Dec2024 12:02:51.118] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/6484, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[11Dec2024 12:02:51.443] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 12:02:51.868] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6487, l='ServerLevel[world]', x=-2.68, y=2.77, z=167.37] died, message: 'Villager was killed'
+[11Dec2024 12:02:51.869] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6488, l='ServerLevel[world]', x=-5.48, y=3.00, z=158.85] died, message: 'Villager was killed whilst fighting Zombie'
+[11Dec2024 12:02:51.869] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6489, l='ServerLevel[world]', x=0.98, y=3.00, z=165.79] died, message: 'Villager was killed'
+[11Dec2024 12:02:51.869] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6490, l='ServerLevel[world]', x=-12.80, y=3.00, z=161.49] died, message: 'Villager was killed'
+[11Dec2024 12:03:24.150] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=12, z=293}
+[11Dec2024 12:03:24.253] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=94, y=12, z=293}
+[11Dec2024 12:03:36.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=94, y=13, z=292}
+[11Dec2024 12:03:41.963] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=95, y=12, z=298}
+[11Dec2024 12:03:42.344] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=13, z=292}
+[11Dec2024 12:03:42.485] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=13, z=292}
+[11Dec2024 12:03:42.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=13, z=292}
+[11Dec2024 12:03:42.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=13, z=292}
+[11Dec2024 12:03:42.851] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=13, z=292}
+[11Dec2024 12:03:42.974] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 12:03:42.993] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=13, z=292}
+[11Dec2024 12:03:43.132] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=13, z=292}
+[11Dec2024 12:03:43.297] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=13, z=292}
+[11Dec2024 12:03:43.435] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=13, z=292}
+[11Dec2024 12:03:43.596] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=13, z=292}
+[11Dec2024 12:03:43.736] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=13, z=292}
+[11Dec2024 12:03:43.900] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=13, z=292}
+[11Dec2024 12:03:44.042] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=13, z=292}
+[11Dec2024 12:03:44.204] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=13, z=292}
+[11Dec2024 12:03:44.342] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=13, z=292}
+[11Dec2024 12:03:44.481] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=13, z=292}
+[11Dec2024 12:03:44.633] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=13, z=292}
+[11Dec2024 12:03:45.603] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 12:03:45.829] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 12:04:05.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg moved too quickly! 4.378467730971494,1.0,-8.993475628585657
+[11Dec2024 12:04:13.726] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 12:04:13.927] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 12:04:14.129] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 12:04:14.365] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 12:04:14.512] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 12:04:20.521] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6595, l='ServerLevel[world]', x=-9.50, y=2.94, z=162.50] died, message: 'Villager was killed'
+[11Dec2024 12:04:23.668] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6594, l='ServerLevel[world]', x=-24.50, y=3.00, z=163.50] died, message: 'Villager was killed'
+[11Dec2024 12:04:23.668] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6596, l='ServerLevel[world]', x=-1.52, y=3.00, z=158.85] died, message: 'Villager was killed'
+[11Dec2024 12:04:23.669] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6597, l='ServerLevel[world]', x=3.39, y=3.00, z=165.49] died, message: 'Villager was killed'
+[11Dec2024 12:04:23.669] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6598, l='ServerLevel[world]', x=-24.35, y=3.00, z=162.35] died, message: 'Villager was killed'
+[11Dec2024 12:04:39.493] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=89, y=12, z=294}
+[11Dec2024 12:04:51.381] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=12, z=293}
+[11Dec2024 12:04:55.639] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=12, z=293}
+[11Dec2024 12:05:04.539] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=92, y=11, z=294}
+[11Dec2024 12:05:40.079] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 12:05:47.893] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 12:06:32.561] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=79, y=9, z=287} BlockPos{x=93, y=12, z=293}
+[11Dec2024 12:06:34.403] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=79, y=9, z=287} BlockPos{x=93, y=11, z=293}
+[11Dec2024 12:06:36.024] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=79, y=9, z=287} BlockPos{x=93, y=11, z=293}
+[11Dec2024 12:06:44.042] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=79, y=9, z=287} BlockPos{x=93, y=11, z=293}
+[11Dec2024 12:06:48.085] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=79, y=9, z=287} BlockPos{x=93, y=11, z=293}
+[11Dec2024 12:07:37.446] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=76, y=9, z=275} BlockPos{x=93, y=11, z=293}
+[11Dec2024 12:08:02.861] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=78, y=9, z=287} BlockPos{x=93, y=11, z=292}
+[11Dec2024 12:08:12.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=78, y=9, z=287} BlockPos{x=93, y=11, z=293}
+[11Dec2024 12:08:15.861] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=78, y=9, z=287} BlockPos{x=92, y=12, z=293}
+[11Dec2024 12:08:18.766] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=78, y=9, z=287} BlockPos{x=93, y=11, z=293}
+[11Dec2024 12:08:19.382] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=78, y=9, z=287} BlockPos{x=93, y=11, z=293}
+[11Dec2024 12:08:22.534] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=78, y=9, z=287} BlockPos{x=93, y=11, z=293}
+[11Dec2024 12:08:24.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=78, y=9, z=287} BlockPos{x=93, y=11, z=293}
+[11Dec2024 12:08:27.797] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=78, y=9, z=287} BlockPos{x=93, y=11, z=293}
+[11Dec2024 12:08:30.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=78, y=9, z=287} BlockPos{x=93, y=12, z=293}
+[11Dec2024 12:08:30.561] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=78, y=9, z=287} BlockPos{x=93, y=11, z=293}
+[11Dec2024 12:08:32.295] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=78, y=9, z=287} BlockPos{x=93, y=11, z=293}
+[11Dec2024 12:09:31.937] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[11Dec2024 12:09:50.013] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[11Dec2024 12:09:53.693] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 12:10:26.888] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[11Dec2024 12:10:32.801] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 12:11:00.677] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[11Dec2024 12:13:43.326] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[11Dec2024 12:14:04.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Vous avez l'arme nécessaire pour commencer le vol!
+[11Dec2024 12:14:28.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Vous avez l'arme nécessaire pour commencer le vol!
+[11Dec2024 12:14:34.374] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:14:35.992] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 12:14:38.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Momo93bg: Triggered [tr] (set value to 6)]
+[11Dec2024 12:14:41.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Vous avez l'arme nécessaire pour commencer le vol!
+[11Dec2024 12:14:46.093] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 12:14:53.052] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 12:15:09.806] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[11Dec2024 12:15:14.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Vous avez l'arme nécessaire pour commencer le vol!
+[11Dec2024 12:15:15.865] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 12:15:21.622] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/7270, l='ServerLevel[world]', x=95.50, y=13.10, z=-58.50] died, message: 'Fisherman was killed'
+[11Dec2024 12:15:32.418] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 12:15:39.480] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[11Dec2024 12:15:40.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [@] Vous avez l'arme nécessaire pour commencer le vol!
+[11Dec2024 12:15:40.691] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[11Dec2024 12:15:41.142] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[11Dec2024 12:15:42.145] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[11Dec2024 12:15:43.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Removed 1600 from [bank] for Imranack (now 10260)]
+[11Dec2024 12:15:48.435] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[11Dec2024 12:15:50.518] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/7280, l='ServerLevel[world]', x=110.50, y=15.00, z=-149.50] died, message: 'Farmer was killed'
+[11Dec2024 12:15:50.518] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/7281, l='ServerLevel[world]', x=111.50, y=16.00, z=-161.50] died, message: 'Librarian was killed'
+[11Dec2024 12:15:50.519] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7282, l='ServerLevel[world]', x=101.50, y=16.00, z=-140.50] died, message: 'Villager was killed'
+[11Dec2024 12:15:50.519] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/7283, l='ServerLevel[world]', x=87.50, y=17.90, z=-144.50] died, message: 'Farmer was killed'
+[11Dec2024 12:15:50.519] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/7284, l='ServerLevel[world]', x=103.50, y=17.00, z=-162.50] died, message: 'Farmer was killed'
+[11Dec2024 12:16:10.628] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg lost connection: Timed out
+[11Dec2024 12:16:10.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg left the game
+[11Dec2024 12:16:44.274] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@17a24679[id=<null>,name=Momo93bg,properties={},legacy=false] (/127.189.193.26:37391) lost connection: Disconnected
+[11Dec2024 12:17:13.223] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaga lost connection: Disconnected
+[11Dec2024 12:17:13.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gaga left the game
+[11Dec2024 12:17:19.528] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gaga[/127.20.190.242:49113] logged in with entity id 7372 at (-67.94394507997413, 13.5, 180.4846879137716)
+[11Dec2024 12:17:19.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gaga joined the game
+[11Dec2024 12:17:35.127] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@463a27c[id=<null>,name=Momo93bg,properties={},legacy=false] (/127.189.193.26:38219) lost connection: Disconnected
+[11Dec2024 12:17:40.086] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Momo93bg[/127.189.193.26:32997] logged in with entity id 7399 at (67.56076420985372, 13.0625, 252.9335320232877)
+[11Dec2024 12:17:40.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg joined the game
+[11Dec2024 12:17:40.318] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 12:17:48.425] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:17:48.626] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:17:48.839] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:18:22.326] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:18:22.474] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:18:22.722] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:18:23.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gaga was decimated by Imranack
+[11Dec2024 12:18:30.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Teleported Gaga to Imranack]
+[11Dec2024 12:19:05.337] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:19:05.525] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:19:12.527] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:19:12.897] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:19:13.078] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:19:13.284] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:19:13.524] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:19:20.176] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:19:20.379] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:19:20.577] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:19:20.760] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:19:20.973] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:19:21.177] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:19:21.377] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:19:24.926] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:19:25.165] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:19:25.325] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:19:25.574] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:19:25.725] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:19:30.478] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:19:30.689] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:19:30.924] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:19:31.085] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:19:31.326] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:19:31.529] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:19:34.461] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[11Dec2024 12:19:39.698] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:19:39.913] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:19:40.103] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:19:40.292] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:19:40.527] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:19:40.722] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:19:40.898] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:19:55.385] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:20:00.261] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:20:03.425] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:20:04.713] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:20:05.341] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:20:05.924] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:20:07.427] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:20:07.626] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:20:07.777] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:20:07.976] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:20:08.200] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:20:08.427] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:20:11.624] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:20:13.325] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:20:15.923] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:20:22.725] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:20:22.928] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:20:23.324] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:20:30.877] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:20:31.026] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:20:31.431] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:20:31.832] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:20:33.176] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:20:36.363] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 12:20:51.178] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:20:56.726] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:20:56.877] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:20:58.582] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:20:58.825] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:20:59.027] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:20:59.227] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:20:59.477] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:20:59.662] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:20:59.878] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:21:00.079] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:21:00.279] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:21:01.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg fell from a high place
+[11Dec2024 12:21:11.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Teleported Momo93bg to Imranack]
+[11Dec2024 12:21:21.777] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:21:21.926] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:21:22.129] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:21:22.332] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:21:25.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Teleported Momo93bg to Imranack]
+[11Dec2024 12:21:40.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Teleported Momo93bg to Imranack]
+[11Dec2024 12:21:40.927] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 12:21:55.782] [Server thread/INFO] [cuffed/]: Gaga is interacting!
