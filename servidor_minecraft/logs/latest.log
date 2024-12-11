@@ -839,3 +839,33 @@ Pouvoir de procéder à des identifications sans aucune restriction, possibilit�
 [11Dec2024 11:48:19.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set Momo93bg's game mode to Survival Mode]
 [11Dec2024 11:49:50.717] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/5603, l='ServerLevel[world]', x=47.86, y=13.00, z=136.52] died, message: 'Armorer was killed'
 [11Dec2024 11:49:50.718] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/5605, l='ServerLevel[world]', x=40.51, y=13.00, z=123.67] died, message: 'Armorer was killed'
+[11Dec2024 11:51:42.278] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [theft:connection,mteg:play,traffic_plus:traffic_plus] rejected their client side version number
+[11Dec2024 11:51:42.279] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11Dec2024 11:51:42.281] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@284dcce1[id=<null>,name=Null,properties={},legacy=false] (/127.189.193.26:55689) lost connection: Disconnected
+[11Dec2024 11:51:42.327] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Dec2024 11:54:49.088] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaga lost connection: Disconnected
+[11Dec2024 11:54:49.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gaga left the game
+[11Dec2024 11:55:00.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[11Dec2024 11:55:04.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[11Dec2024 11:55:35.075] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg lost connection: Timed out
+[11Dec2024 11:55:35.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg left the game
+[11Dec2024 11:55:45.074] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@73f78a31[id=<null>,name=Gaga,properties={},legacy=false] (/127.20.190.242:49627) lost connection: Disconnected
+[11Dec2024 11:55:45.232] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Momo93bg[/127.189.193.26:54083] logged in with entity id 5976 at (58.68540775629863, 13.0, 28.190456214152217)
+[11Dec2024 11:55:45.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg joined the game
+[11Dec2024 11:57:27.429] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@11190caf[id=<null>,name=Florion,properties={},legacy=false] (/127.189.193.26:39903) lost connection: Disconnected
+[11Dec2024 11:57:30.431] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg lost connection: Timed out
+[11Dec2024 11:57:30.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg left the game
+[11Dec2024 11:57:32.233] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gaga[/127.20.190.242:51447] logged in with entity id 6129 at (20.30000001192093, 13.0, 179.66566554267055)
+[11Dec2024 11:57:32.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gaga joined the game
+[11Dec2024 11:57:39.678] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@301750a8[id=<null>,name=Florion,properties={},legacy=false] (/127.189.193.26:33289) lost connection: Disconnected
+[11Dec2024 11:58:03.927] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@61c7eb37[id=<null>,name=Momo93bg,properties={},legacy=false] (/127.189.193.26:59171) lost connection: Timed out
+[11Dec2024 11:58:13.284] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Momo93bg[/127.189.193.26:49439] logged in with entity id 6161 at (63.84336606114848, 14.753199980521202, 46.33777804439332)
+[11Dec2024 11:58:13.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg joined the game
+[11Dec2024 11:59:00.530] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@47270178[id=<null>,name=Florion,properties={},legacy=false] (/127.189.193.26:46019) lost connection: Timed out
+[11Dec2024 11:59:11.174] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/6217, l='ServerLevel[world]', x=96.45, y=13.10, z=-59.45] died, message: 'Fisherman was killed'
+[11Dec2024 11:59:27.829] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@59a989b0[id=<null>,name=Florion,properties={},legacy=false] (/127.189.193.26:48595) lost connection: Disconnected
+[11Dec2024 11:59:54.592] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[11Dec2024 12:00:28.481] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg lost connection: Timed out
+[11Dec2024 12:00:28.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg left the game
+[11Dec2024 12:00:54.213] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 12:01:19.726] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@56452f67[id=<null>,name=Momo93bg,properties={},legacy=false] (/127.189.193.26:47989) lost connection: Disconnected
