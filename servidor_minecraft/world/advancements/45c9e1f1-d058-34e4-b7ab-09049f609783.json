@@ -4324,5 +4324,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2024-12-11 12:24:19 +0000"
+    },
+    "done": true
+  },
+  "jeg:molotov_cocktail": {
+    "criteria": {
+      "Item": "2024-12-11 12:21:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2024-12-11 12:24:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
