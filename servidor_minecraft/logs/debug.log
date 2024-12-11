@@ -4805,3 +4805,78 @@ Pouvoir de procéder à des identifications sans aucune restriction, possibilit�
 [11Dec2024 11:20:45.677] [Server thread/INFO] [cuffed/]: Imranack is interacting!
 [11Dec2024 11:21:01.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set Gaga's game mode to Adventure Mode]
 [11Dec2024 11:21:11.913] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 11:21:17.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 11:21:17.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 11:21:27.178] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 11:22:27.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Imranack's Head] to Imranack]
+[11Dec2024 11:23:02.211] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 11:23:18.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [ElRichMC's Head] to Imranack]
+[11Dec2024 11:23:27.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [ElRichMC's Head] to Imranack]
+[11Dec2024 11:23:34.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [ElRichMC's Head] to Imranack]
+[11Dec2024 11:23:47.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Notch's Head] to Imranack]
+[11Dec2024 11:23:57.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [MomoBg093's Head] to Imranack]
+[11Dec2024 11:24:06.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Momobg93's Head] to Imranack]
+[11Dec2024 11:24:15.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Momobg93's Head] to Imranack]
+[11Dec2024 11:24:40.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Notch's Head] to Imranack]
+[11Dec2024 11:25:17.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [SpreenDMC's Head] to Imranack]
+[11Dec2024 11:25:47.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Safwan's Head] to Imranack]
+[11Dec2024 11:26:05.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Florion's Head] to Imranack]
+[11Dec2024 11:26:17.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 11:26:17.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 11:26:39.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [TheReal1907's Head] to Imranack]
+[11Dec2024 11:26:48.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [TheReal1907's Head] to Imranack]
+[11Dec2024 11:26:59.644] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 11:27:03.681] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 11:27:15.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Null's Head] to Imranack]
+[11Dec2024 11:27:33.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [KillerCreeper's Head] to Imranack]
+[11Dec2024 11:27:43.664] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 11:27:50.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [KillerCreeper55's Head] to Imranack]
+[11Dec2024 11:28:05.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Killercreeper55's Head] to Imranack]
+[11Dec2024 11:28:23.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [killerCreeper55's Head] to Imranack]
+[11Dec2024 11:29:03.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Killercreeper55_'s Head] to Imranack]
+[11Dec2024 11:29:08.268] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4390, l='ServerLevel[world]', x=-9.50, y=2.94, z=162.50] died, message: 'Villager was killed'
+[11Dec2024 11:29:08.269] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4391, l='ServerLevel[world]', x=-3.50, y=3.00, z=157.50] died, message: 'Villager was killed'
+[11Dec2024 11:29:12.669] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/4382, l='ServerLevel[world]', x=49.53, y=13.00, z=127.21] died, message: 'Armorer was killed'
+[11Dec2024 11:29:12.670] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/4384, l='ServerLevel[world]', x=39.62, y=13.00, z=136.51] died, message: 'Armorer was killed'
+[11Dec2024 11:29:13.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [KillerCreeper55_'s Head] to Imranack]
+[11Dec2024 11:29:14.369] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4389, l='ServerLevel[world]', x=-5.51, y=3.00, z=161.22] died, message: 'Villager was killed'
+[11Dec2024 11:29:14.370] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4392, l='ServerLevel[world]', x=0.90, y=3.00, z=160.02] died, message: 'Villager was killed'
+[11Dec2024 11:29:14.370] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4393, l='ServerLevel[world]', x=-23.59, y=3.00, z=161.98] died, message: 'Villager was killed'
+[11Dec2024 11:30:11.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [KillerCreeper_55's Head] to Imranack]
+[11Dec2024 11:30:24.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [KillerCreeper_55's Head] to Imranack]
+[11Dec2024 11:30:57.326] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack lost connection: Timed out
+[11Dec2024 11:30:57.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack left the game
+[11Dec2024 11:31:09.811] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 31 messages to dispatch.
+[11Dec2024 11:31:09.828] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'jeg:custom_gun_manager' to 'framework:handshake' sequence 0
+[11Dec2024 11:31:09.876] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'jeg:network_gun_manager' to 'framework:handshake' sequence 1
+[11Dec2024 11:31:09.928] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'FrameworkConfig refurbished_furniture:server' to 'framework:handshake' sequence 2
+[11Dec2024 11:31:09.983] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 3
+[11Dec2024 11:31:10.029] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 4
+[11Dec2024 11:31:10.077] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 5
+[11Dec2024 11:31:10.140] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 6
+[11Dec2024 11:31:10.179] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 7
+[11Dec2024 11:31:10.235] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 8
+[11Dec2024 11:31:10.283] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 9
+[11Dec2024 11:31:10.328] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 10
+[11Dec2024 11:31:10.380] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 11
+[11Dec2024 11:31:10.429] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 12
+[11Dec2024 11:31:10.481] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 13
+[11Dec2024 11:31:10.532] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 14
+[11Dec2024 11:31:10.584] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 15
+[11Dec2024 11:31:10.629] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 16
+[11Dec2024 11:31:10.679] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry cuffed:restraints' to 'fml:handshake' sequence 17
+[11Dec2024 11:31:10.728] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 18
+[11Dec2024 11:31:10.780] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 19
+[11Dec2024 11:31:10.829] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 20
+[11Dec2024 11:31:10.877] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 21
+[11Dec2024 11:31:10.929] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 22
+[11Dec2024 11:31:10.982] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 23
+[11Dec2024 11:31:11.028] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 24
+[11Dec2024 11:31:11.079] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 25
+[11Dec2024 11:31:11.132] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config locks-server.toml' to 'fml:handshake' sequence 26
+[11Dec2024 11:31:11.179] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 27
+[11Dec2024 11:31:11.226] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jeg-server.toml' to 'fml:handshake' sequence 28
+[11Dec2024 11:31:11.278] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config cuffed-server.toml' to 'fml:handshake' sequence 29
+[11Dec2024 11:31:11.327] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 30
+[11Dec2024 11:31:17.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 11:31:17.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
