@@ -529,3 +529,75 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Dec2024 11:00:07.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
 [11Dec2024 11:00:09.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
 [11Dec2024 11:00:47.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[11Dec2024 11:00:49.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[11Dec2024 11:01:02.882] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElRichMC[/127.189.193.26:50281] logged in with entity id 1724 at (-69.51989206390132, 13.0, 274.6013518578508)
+[11Dec2024 11:01:02.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElRichMC joined the game
+[11Dec2024 11:01:07.269] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:01:07.570] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:01:07.570] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:01:10.782] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElRichMC lost connection: Disconnected
+[11Dec2024 11:01:10.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElRichMC left the game
+[11Dec2024 11:01:10.818] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:01:11.119] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:01:11.120] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:01:19.127] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 11:01:37.365] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 11:01:37.495] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 11:01:37.715] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 11:01:37.845] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 11:01:38.065] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 11:01:38.445] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 11:01:38.505] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 11:01:38.527] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 11:01:38.578] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 11:01:38.627] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 11:01:38.627] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 11:01:38.665] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 11:01:38.765] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 11:01:38.778] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 11:01:38.865] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 11:01:38.905] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 11:01:38.955] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 11:01:39.005] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 11:01:39.012] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 11:01:39.095] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 11:01:39.255] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 11:01:53.368] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:01:53.669] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:01:53.669] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:01:56.630] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 11:02:11.905] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 11:02:18.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected whitespace to end one argument, but found trailing data
+[11Dec2024 11:02:18.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...RTA AZUL"
+/bossbar set alerta_azul color blue
+/bossbar set alerta_azul players @a<--[HERE]
+[11Dec2024 11:03:28.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Created new objective [Alerta]]
+[11Dec2024 11:03:37.256] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 11:03:38.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set display slot sidebar to show objective Alerta]
+[11Dec2024 11:03:46.155] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 11:03:48.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set display slot belowName to show objective Alerta]
+[11Dec2024 11:03:49.405] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 11:04:09.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected whitespace to end one argument, but found trailing data
+[11Dec2024 11:04:09.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...a alerta 1
+/title @a actionbar {"text":"ALERTA AZUL","color":"blue","bold":true}<--[HERE]
+[11Dec2024 11:04:24.127] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[11Dec2024 11:04:33.129] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/2455, l='ServerLevel[world]', x=95.50, y=13.10, z=-58.50] died, message: 'Fisherman was killed'
+[11Dec2024 11:05:44.081] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Notch[/127.189.193.26:40225] logged in with entity id 2557 at (88.5, 23.0, 308.5)
+[11Dec2024 11:05:44.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notch joined the game
+[11Dec2024 11:05:59.485] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notch lost connection: Disconnected
+[11Dec2024 11:05:59.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notch left the game
+[11Dec2024 11:06:30.592] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Momo93bg[/127.141.120.102:57541] logged in with entity id 2741 at (-98.00315040722107, 14.0, 280.69999998807907)
+[11Dec2024 11:06:30.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg joined the game
+[11Dec2024 11:07:00.729] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg lost connection: Timed out
+[11Dec2024 11:07:00.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg left the game
+[11Dec2024 11:07:09.333] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Momo93bg[/127.189.193.26:35527] logged in with entity id 2904 at (-98.00315040722107, 14.0, 280.69999998807907)
+[11Dec2024 11:07:09.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg joined the game
+[11Dec2024 11:07:30.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Momo93bg: Triggered [tr] (set value to 29)]
+[11Dec2024 11:07:38.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Command Block] to Imranack]
+[11Dec2024 11:10:37.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Imranack> execute as @a run title @s actionbar {"text":"ALERTE BLEUE","color":"blue","bold":true}
+[11Dec2024 11:10:46.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gaga: Showing new actionbar title for Gaga]
+[11Dec2024 11:10:46.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Showing new actionbar title for Imranack]
+[11Dec2024 11:10:46.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Momo93bg: Showing new actionbar title for Momo93bg]
+[11Dec2024 11:10:49.018] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:10:49.319] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:10:49.319] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
