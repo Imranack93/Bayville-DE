@@ -4288,5 +4288,41 @@
     },
     "done": true
   },
+  "dragnvehicles:recipes/misc/car_body": {
+    "criteria": {
+      "has_iron_block": "2024-12-08 15:36:38 +0000"
+    },
+    "done": true
+  },
+  "dragnvehicles:recipes/misc/sport_car_body": {
+    "criteria": {
+      "has_iron_block": "2024-12-08 15:36:38 +0000"
+    },
+    "done": true
+  },
+  "dragnvehicles:recipes/misc/classic_body": {
+    "criteria": {
+      "has_iron_block": "2024-12-08 15:36:38 +0000"
+    },
+    "done": true
+  },
+  "dragnvehicles:recipes/misc/suv_body": {
+    "criteria": {
+      "has_iron_block": "2024-12-08 15:36:38 +0000"
+    },
+    "done": true
+  },
+  "dragnvehicles:recipes/misc/motorcycle_body": {
+    "criteria": {
+      "has_iron_block": "2024-12-08 15:36:38 +0000"
+    },
+    "done": true
+  },
+  "dragnvehicles:recipes/misc/truck_body": {
+    "criteria": {
+      "has_iron_block": "2024-12-08 15:36:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
