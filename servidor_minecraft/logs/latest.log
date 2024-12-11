@@ -601,3 +601,99 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Dec2024 11:10:49.018] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
 [11Dec2024 11:10:49.319] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
 [11Dec2024 11:10:49.319] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:11:20.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gaga: Showing new actionbar title for Gaga]
+[11Dec2024 11:11:20.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Showing new actionbar title for Imranack]
+[11Dec2024 11:11:20.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Momo93bg: Showing new actionbar title for Momo93bg]
+[11Dec2024 11:11:26.056] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=33, y=13, z=315} BlockPos{x=73, y=13, z=308}
+[11Dec2024 11:12:29.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Momo93bg: Triggered [tr] (set value to 29)]
+[11Dec2024 11:12:55.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Teleported Imranack to Momo93bg]
+[11Dec2024 11:12:58.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[11Dec2024 11:13:16.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Removed objective [Alerta]]
+[11Dec2024 11:13:42.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[11Dec2024 11:15:16.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Hoalkddi
+[11Dec2024 11:15:55.177] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg lost connection: Timed out
+[11Dec2024 11:15:55.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg left the game
+[11Dec2024 11:16:04.686] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Momo93bg[/127.189.193.26:41651] logged in with entity id 3315 at (-91.01217034911167, 12.5, 284.0171003242147)
+[11Dec2024 11:16:04.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg joined the game
+[11Dec2024 11:16:32.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg moved too quickly! 1.256113417508658,-0.7967356006686934,-10.0793747797575
+[11Dec2024 11:16:33.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Alerte bleue :
+Pouvoir de procéder à des identifications sans aucune restriction, possibilité de s'équiper d'armes longues lors des patrouilles, capacité de fermer des commerces et des lieux publics afin de contrôler tout danger.
+[11Dec2024 11:16:59.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[11Dec2024 11:17:02.618] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.619] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.619] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.620] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.620] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.621] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.622] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.622] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.623] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.623] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.623] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.624] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.625] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.626] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.626] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.627] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.628] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.628] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.629] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.629] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.630] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.630] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.631] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.631] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.720] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.721] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.721] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.723] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.723] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.724] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.725] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.726] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.727] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.728] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.729] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.919] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.920] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.921] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.922] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.923] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.924] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.924] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.926] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.927] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.928] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.929] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.929] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.931] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.931] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.932] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.932] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.933] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.934] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.935] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.936] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.937] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.938] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:02.939] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[11Dec2024 11:17:05.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Teleported Imranack to Momo93bg]
+[11Dec2024 11:17:22.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[11Dec2024 11:17:38.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[11Dec2024 11:17:42.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[11Dec2024 11:17:48.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[11Dec2024 11:17:56.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[11Dec2024 11:18:18.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg moved too quickly! 0.3146280932422769,0.0,-10.139612215622321
+[11Dec2024 11:18:27.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=12, z=138} BlockPos{x=92, y=11, z=294}
+[11Dec2024 11:19:35.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Alerte bleue :
+Pouvoir de procéder à des identifications sans aucune restriction, possibilité de s'équiper d'armes longues lors des patrouilles, capacité de fermer des commerces et des lieux publics afin de contrôler tout danger.
+[11Dec2024 11:20:07.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg moved too quickly! -10.048194109630487,0.0,-1.0798517552760245
+[11Dec2024 11:20:29.050] [Server thread/WARN] [jeg/]: literal{Imranack}(45c9e1f1-d058-34e4-b7ab-09049f609783) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 89
+[11Dec2024 11:20:44.679] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 11:20:44.842] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 11:20:45.080] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 11:20:45.240] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 11:20:45.432] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 11:20:45.677] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[11Dec2024 11:21:01.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set Gaga's game mode to Adventure Mode]
+[11Dec2024 11:21:11.913] [Server thread/INFO] [cuffed/]: Gaga is interacting!
