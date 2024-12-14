@@ -4452,5 +4452,41 @@
     },
     "done": true
   },
+  "jeg:holy_shotgun": {
+    "criteria": {
+      "Item": "2024-12-14 18:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-12-14 18:18:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_helmet": "2024-12-14 18:18:41 +0000"
+    },
+    "done": true
+  },
+  "jeg:infantry_rifle": {
+    "criteria": {
+      "Item": "2024-12-14 18:22:26 +0000"
+    },
+    "done": true
+  },
+  "jeg:atlantean_spear": {
+    "criteria": {
+      "Item": "2024-12-14 18:22:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_helmet": "2024-12-14 18:18:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

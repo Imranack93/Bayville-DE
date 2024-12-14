@@ -6234,3 +6234,138 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Dec2024 18:14:30.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Dec2024 18:14:30.954] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Dec2024 18:14:44.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set Momo93bg's game mode to Creative Mode]
+[14Dec2024 18:16:10.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[14Dec2024 18:16:10.804] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:16:24.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[14Dec2024 18:16:27.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set Momo93bg's game mode to Survival Mode]
+[14Dec2024 18:16:29.354] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:16:29.537] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:16:29.652] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:16:29.843] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:16:30.003] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:16:30.202] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:16:30.340] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:16:30.552] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:16:54.133] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'generic.maxHealth'
+[14Dec2024 18:16:54.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Summoned new Zombie]
+[14Dec2024 18:16:57.892] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:16:58.100] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:16:58.236] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:16:58.455] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:16:59.153] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:16:59.356] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:16:59.485] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:16:59.643] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:16:59.844] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:17:00.075] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:17:00.753] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:17:00.933] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:17:01.094] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:17:30.991] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=15, z=156} BlockPos{x=366, y=12, z=-243}
+[14Dec2024 18:17:47.151] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:17:47.352] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:17:48.743] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:17:48.884] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:17:49.054] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=15, z=156} BlockPos{x=360, y=9, z=-226}
+[14Dec2024 18:17:49.902] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:17:50.102] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:17:51.151] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:17:51.353] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:17:51.553] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:17:51.738] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:17:51.983] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:17:52.328] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:17:52.502] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:17:52.743] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:17:52.889] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:17:53.043] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:17:53.202] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:17:53.402] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:17:53.602] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:17:53.878] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:17:54.087] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:17:54.751] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:17:56.509] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'generic.maxHealth'
+[14Dec2024 18:17:56.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Summoned new Zombie]
+[14Dec2024 18:18:13.701] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:18:13.802] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[14Dec2024 18:18:14.053] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:18:14.601] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:18:14.802] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:18:15.002] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:18:15.139] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:18:15.504] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:18:15.991] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:18:16.186] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:18:16.340] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:18:16.504] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:18:16.680] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:18:16.840] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:18:41.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack has made the advancement [Suit Up]
+[14Dec2024 18:19:13.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Summoned new Zombie]
+[14Dec2024 18:19:18.187] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:19:18.489] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:19:18.900] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:19:19.101] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:19:19.477] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:19:19.690] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:19:19.843] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:19:20.080] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:19:20.401] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:19:30.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 18:19:30.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 18:19:46.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set Momo93bg's game mode to Creative Mode]
+[14Dec2024 18:19:50.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Teleported Momo93bg to Imranack]
+[14Dec2024 18:21:49.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set Momo93bg's game mode to Survival Mode]
+[14Dec2024 18:21:50.753] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:21:50.900] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:21:51.883] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:21:55.942] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:21:55.943] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:21:55.944] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:21:58.941] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:21:59.101] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:21:59.268] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:21:59.456] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:22:16.361] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[14Dec2024 18:22:16.538] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[14Dec2024 18:23:14.302] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:23:14.553] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:23:14.738] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:23:15.254] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:23:15.402] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:23:15.603] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:23:15.743] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:23:16.102] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:23:16.302] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:23:16.452] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:23:16.776] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:23:17.153] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:23:17.343] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:23:19.241] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:23:19.444] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:23:19.643] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:23:19.804] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:23:20.001] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:23:20.140] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:23:43.745] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 18:23:43.746] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 18:23:43.747] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 18:23:43.747] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 18:23:43.747] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 18:23:43.748] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 18:23:43.748] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 18:23:43.748] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 18:23:43.749] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 18:23:43.749] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 18:23:43.749] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 18:23:43.750] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 18:23:43.750] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 18:23:43.751] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 18:23:43.751] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 18:23:43.751] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 18:23:43.752] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 18:23:43.752] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 18:23:43.752] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 18:24:30.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 18:24:30.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
