@@ -538,3 +538,30 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Dec2024 16:59:39.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg left the game
 [14Dec2024 17:04:45.153] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaga lost connection: Timed out
 [14Dec2024 17:04:45.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gaga left the game
+[14Dec2024 17:19:24.657] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Momo93bg[/127.189.193.26:33185] logged in with entity id 2747 at (113.39080167010165, 11.0, 307.00463222083)
+[14Dec2024 17:19:24.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg joined the game
+[14Dec2024 17:21:33.161] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Imranack[/127.189.193.26:36693] logged in with entity id 2953 at (370.39360235465784, 13.0, -239.4837777909719)
+[14Dec2024 17:21:33.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack joined the game
+[14Dec2024 17:22:14.495] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:22:35.409] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:22:36.903] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:22:39.806] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:22:44.556] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:22:44.804] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:22:44.954] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:22:51.343] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:22:57.359] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:22:57.611] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:22:57.813] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:22:58.006] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:22:58.306] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:22:58.513] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:22:58.758] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:24:15.755] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:24:33.025] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:24:33.026] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:24:33.027] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:24:33.027] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:24:33.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Momo93bg) moved too quickly! -10.046938346872047,0.0,0.0
+[14Dec2024 17:24:33.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Momo93bg) moved too quickly! -10.371039807700058,0.0,0.0
+[14Dec2024 17:24:33.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Momo93bg) moved too quickly! -10.695141268821963,0.0,0.0
