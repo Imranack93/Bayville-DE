@@ -1403,3 +1403,32 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Dec2024 18:35:17.296] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/9919, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
 [14Dec2024 18:35:37.495] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/9953, l='ServerLevel[world]', x=57.44, y=13.00, z=125.48] died, message: 'Armorer was killed'
 [14Dec2024 18:35:37.496] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/9955, l='ServerLevel[world]', x=42.51, y=13.00, z=121.24] died, message: 'Armorer was killed'
+[14Dec2024 18:36:39.754] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:37:24.157] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:37:59.939] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:38:18.968] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[14Dec2024 18:38:25.156] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[14Dec2024 18:38:45.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[14Dec2024 18:39:07.068] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[14Dec2024 18:39:26.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[14Dec2024 18:39:29.299] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 18:39:31.407] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[14Dec2024 18:39:46.196] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/10215, l='ServerLevel[world]', x=50.58, y=13.00, z=136.55] died, message: 'Armorer was killed'
+[14Dec2024 18:39:46.197] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/10217, l='ServerLevel[world]', x=40.50, y=13.00, z=125.91] died, message: 'Armorer was killed'
+[14Dec2024 18:40:06.750] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/10268, l='ServerLevel[world]', x=186.50, y=11.90, z=268.50] died, message: 'Butcher was killed'
+[14Dec2024 18:40:06.751] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/10285, l='ServerLevel[world]', x=205.55, y=11.90, z=256.52] died, message: 'Cartographer was killed'
+[14Dec2024 18:40:06.751] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/10286, l='ServerLevel[world]', x=180.55, y=11.90, z=285.50] died, message: 'Armorer was killed'
+[14Dec2024 18:40:06.752] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10287, l='ServerLevel[world]', x=191.19, y=10.90, z=268.20] died, message: 'Villager was killed'
+[14Dec2024 18:40:06.752] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/10288, l='ServerLevel[world]', x=183.54, y=11.90, z=266.24] died, message: 'Fisherman was killed'
+[14Dec2024 18:40:06.752] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10289, l='ServerLevel[world]', x=218.50, y=11.90, z=244.45] died, message: 'Villager was killed'
+[14Dec2024 18:40:06.752] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/10290, l='ServerLevel[world]', x=197.50, y=10.90, z=279.50] died, message: 'Fisherman was killed'
+[14Dec2024 18:40:06.752] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/10291, l='ServerLevel[world]', x=201.54, y=11.90, z=248.24] died, message: 'Armorer was killed'
+[14Dec2024 18:40:20.257] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[14Dec2024 18:40:36.366] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[14Dec2024 18:41:03.104] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[14Dec2024 18:43:25.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[14Dec2024 18:43:44.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[14Dec2024 18:44:17.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[14Dec2024 18:44:20.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[14Dec2024 18:44:58.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[14Dec2024 18:45:22.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
