@@ -526,3 +526,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Dec2024 16:53:29.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gaga left the game
 [14Dec2024 16:53:40.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack lost connection: Timed out
 [14Dec2024 16:53:40.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack left the game
+[14Dec2024 16:56:28.988] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Imranack[/127.189.193.26:45385] logged in with entity id 2137 at (371.7878700264293, 13.0, -243.70494512616887)
+[14Dec2024 16:56:29.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack joined the game
+[14Dec2024 16:56:59.460] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gaga[/127.247.46.75:52799] logged in with entity id 2212 at (-221.62335583476587, 12.0, -96.54209889721625)
+[14Dec2024 16:56:59.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gaga joined the game
+[14Dec2024 16:57:45.083] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 16:59:05.583] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 16:59:29.305] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack lost connection: Timed out
+[14Dec2024 16:59:29.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack left the game
+[14Dec2024 16:59:39.905] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg lost connection: Timed out
+[14Dec2024 16:59:39.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg left the game
