@@ -6369,3 +6369,72 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Dec2024 18:23:43.752] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
 [14Dec2024 18:24:30.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Dec2024 18:24:30.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 18:25:53.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Applied effect Blindness to Momo93bg]
+[14Dec2024 18:26:01.101] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[14Dec2024 18:26:01.883] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:26:29.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 0.32619581908014084
+[14Dec2024 18:26:29.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 0.9245013650116789
+[14Dec2024 18:26:35.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 0.5270557116375159
+[14Dec2024 18:26:35.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 1.127054898379285
+[14Dec2024 18:26:43.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 0.4162927073899141
+[14Dec2024 18:26:43.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 1.013952127407947
+[14Dec2024 18:26:46.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 0.5318673624051939
+[14Dec2024 18:26:46.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 1.1314786509657324
+[14Dec2024 18:26:48.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 0.31410872576597626
+[14Dec2024 18:26:48.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 0.9140281035501516
+[14Dec2024 18:26:48.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 0.5135462700617666
+[14Dec2024 18:26:48.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 1.1134659404969227
+[14Dec2024 18:26:49.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 0.5127430869081024
+[14Dec2024 18:27:36.804] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:28:16.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Removed effect Blindness from Momo93bg]
+[14Dec2024 18:28:22.496] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/9617, l='ServerLevel[world]', x=54.46, y=13.00, z=127.52] died, message: 'Armorer was killed'
+[14Dec2024 18:28:22.497] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/9619, l='ServerLevel[world]', x=51.61, y=13.00, z=136.55] died, message: 'Armorer was killed'
+[14Dec2024 18:28:39.606] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[14Dec2024 18:29:11.726] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[14Dec2024 18:29:16.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[14Dec2024 18:29:24.305] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[14Dec2024 18:29:30.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 18:29:30.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 18:30:12.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg moved too quickly! -10.420170929822525,-0.10442410132670332,-0.4656487611215425
+[14Dec2024 18:30:56.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Momo93bg: Triggered [tr] (set value to 6)]
+[14Dec2024 18:30:59.010] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:30:59.143] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:30:59.358] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:30:59.557] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:31:00.063] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:31:05.124] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 18:31:05.909] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 18:31:06.809] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 18:31:07.359] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 18:31:08.363] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 18:31:08.810] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 18:32:09.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set [bank] for Momo93bg to 1500]
+[14Dec2024 18:32:11.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg moved too quickly! 10.28734236219776,-0.7967356006686934,-0.5591749008480065
+[14Dec2024 18:32:11.997] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9819, l='ServerLevel[world]', x=-24.50, y=3.00, z=163.50] died, message: 'Villager was killed'
+[14Dec2024 18:32:11.997] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9822, l='ServerLevel[world]', x=5.50, y=4.00, z=166.50] died, message: 'Villager was killed'
+[14Dec2024 18:32:11.998] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9823, l='ServerLevel[world]', x=-22.50, y=3.00, z=158.50] died, message: 'Villager was killed'
+[14Dec2024 18:32:15.795] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/9755, l='ServerLevel[world]', x=54.86, y=13.00, z=121.24] died, message: 'Armorer was killed'
+[14Dec2024 18:32:15.796] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/9757, l='ServerLevel[world]', x=35.52, y=13.00, z=125.57] died, message: 'Armorer was killed'
+[14Dec2024 18:32:17.146] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9820, l='ServerLevel[world]', x=-3.28, y=2.50, z=165.86] died, message: 'Villager was killed'
+[14Dec2024 18:32:17.147] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9821, l='ServerLevel[world]', x=3.22, y=3.00, z=158.30] died, message: 'Villager was killed'
+[14Dec2024 18:32:30.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 0.43440375683647403
+[14Dec2024 18:32:30.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 1.029980275189132
+[14Dec2024 18:32:31.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 1.6256931893978503
+[14Dec2024 18:32:31.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 2.2215015807041993
+[14Dec2024 18:32:31.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 2.8173768059777444
+[14Dec2024 18:32:48.061] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 18:32:48.159] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[14Dec2024 18:33:08.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Added 4000 to [bank] for Imranack (now 11100)]
+[14Dec2024 18:33:18.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[14Dec2024 18:34:11.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set Gaga's game mode to Adventure Mode]
+[14Dec2024 18:34:30.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 18:34:30.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 18:34:38.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[14Dec2024 18:34:40.060] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[14Dec2024 18:34:59.996] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/9910, l='ServerLevel[world]', x=52.50, y=13.00, z=134.50] died, message: 'Armorer was killed'
+[14Dec2024 18:34:59.997] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/9912, l='ServerLevel[world]', x=48.64, y=13.00, z=127.52] died, message: 'Armorer was killed'
+[14Dec2024 18:35:01.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set Gaga's game mode to Survival Mode]
+[14Dec2024 18:35:17.295] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/9917, l='ServerLevel[world]', x=48.67, y=13.00, z=136.50] died, message: 'Armorer was killed'
+[14Dec2024 18:35:17.296] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/9919, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[14Dec2024 18:35:37.495] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/9953, l='ServerLevel[world]', x=57.44, y=13.00, z=125.48] died, message: 'Armorer was killed'
+[14Dec2024 18:35:37.496] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/9955, l='ServerLevel[world]', x=42.51, y=13.00, z=121.24] died, message: 'Armorer was killed'
