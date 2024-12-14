@@ -925,3 +925,183 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Dec2024 17:55:01.753] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
 [14Dec2024 17:55:01.754] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
 [14Dec2024 17:55:01.754] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:55:29.505] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[14Dec2024 17:55:30.007] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[14Dec2024 17:55:31.007] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:55:49.646] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/6708, l='ServerLevel[world]', x=36.95, y=13.00, z=136.53] died, message: 'Armorer was killed'
+[14Dec2024 17:55:49.647] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/6710, l='ServerLevel[world]', x=36.35, y=13.00, z=127.53] died, message: 'Armorer was killed'
+[14Dec2024 17:55:54.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 0.2939273630401118
+[14Dec2024 17:55:55.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 0.8898630467258357
+[14Dec2024 17:55:57.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 0.41274726883396085
+[14Dec2024 17:55:57.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 1.0036116515384421
+[14Dec2024 17:56:05.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 0.2880073550333009
+[14Dec2024 17:56:06.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 0.8877560031897929
+[14Dec2024 17:56:15.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 0.43811100758637167
+[14Dec2024 17:56:15.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 0.9884684097823992
+[14Dec2024 17:56:15.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 1.5536433917439183
+[14Dec2024 17:56:15.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 0.39057479631719616
+[14Dec2024 17:56:15.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 0.9839757207002435
+[14Dec2024 17:56:16.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 0.554450116393781
+[14Dec2024 17:56:16.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 1.154005187218985
+[14Dec2024 17:56:17.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 0.5463652461358208
+[14Dec2024 17:56:17.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 1.1445732982392656
+[14Dec2024 17:56:30.668] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:56:34.716] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:57:59.987] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:58:34.462] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:58:34.760] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[14Dec2024 17:58:44.250] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7702, l='ServerLevel[world]', x=-9.50, y=2.94, z=162.50] died, message: 'Villager was killed'
+[14Dec2024 17:58:46.960] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:58:48.019] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[14Dec2024 17:58:48.045] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7701, l='ServerLevel[world]', x=-22.68, y=3.00, z=159.49] died, message: 'Villager was killed'
+[14Dec2024 17:58:48.046] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7703, l='ServerLevel[world]', x=-5.47, y=3.00, z=158.85] died, message: 'Villager was killed'
+[14Dec2024 17:58:48.046] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7704, l='ServerLevel[world]', x=7.21, y=4.00, z=167.43] died, message: 'Villager was killed'
+[14Dec2024 17:58:48.047] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7705, l='ServerLevel[world]', x=-22.50, y=3.00, z=158.50] died, message: 'Villager was killed'
+[14Dec2024 17:58:49.048] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7715, l='ServerLevel[world]', x=-24.50, y=3.00, z=163.50] died, message: 'Villager was killed'
+[14Dec2024 17:58:49.048] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7718, l='ServerLevel[world]', x=5.50, y=4.00, z=166.50] died, message: 'Villager was killed'
+[14Dec2024 17:58:50.456] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:59:00.155] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[14Dec2024 17:59:01.906] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:59:10.296] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7716, l='ServerLevel[world]', x=-23.43, y=3.00, z=163.74] died, message: 'Villager was killed'
+[14Dec2024 17:59:10.297] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7717, l='ServerLevel[world]', x=3.22, y=3.00, z=158.49] died, message: 'Villager was killed'
+[14Dec2024 17:59:10.297] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7719, l='ServerLevel[world]', x=-24.25, y=3.00, z=162.22] died, message: 'Villager was killed'
+[14Dec2024 17:59:26.148] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7776, l='ServerLevel[world]', x=-3.50, y=3.00, z=157.50] died, message: 'Villager was killed'
+[14Dec2024 17:59:26.149] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7777, l='ServerLevel[world]', x=5.50, y=4.00, z=166.50] died, message: 'Villager was killed'
+[14Dec2024 17:59:31.647] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7493, l='ServerLevel[world]', x=49.50, y=13.00, z=121.24] died, message: 'Armorer was killed'
+[14Dec2024 17:59:31.648] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7495, l='ServerLevel[world]', x=49.46, y=13.00, z=135.21] died, message: 'Armorer was killed'
+[14Dec2024 17:59:32.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 0.38827166535816104
+[14Dec2024 17:59:33.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 0.9410135535541997
+[14Dec2024 17:59:33.097] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7774, l='ServerLevel[world]', x=-22.90, y=3.00, z=163.91] died, message: 'Villager was killed'
+[14Dec2024 17:59:33.098] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7775, l='ServerLevel[world]', x=-16.49, y=3.79, z=164.59] died, message: 'Villager was killed whilst fighting Zombie'
+[14Dec2024 17:59:33.098] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7778, l='ServerLevel[world]', x=-23.63, y=3.00, z=160.77] died, message: 'Villager was killed'
+[14Dec2024 17:59:44.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 0.25792336762868473
+[14Dec2024 17:59:44.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 0.8574949115366559
+[14Dec2024 17:59:53.355] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:00:12.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 0.3122303119809544
+[14Dec2024 18:00:12.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 0.9119819102808151
+[14Dec2024 18:00:15.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 0.332078145861189
+[14Dec2024 18:00:15.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 0.9307346766667735
+[14Dec2024 18:00:19.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 0.32266790261621736
+[14Dec2024 18:00:19.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 0.9225178924105535
+[14Dec2024 18:00:19.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 1.5223678822048896
+[14Dec2024 18:00:19.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 2.1222178719992257
+[14Dec2024 18:00:50.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 0.4331195194887698
+[14Dec2024 18:00:50.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Classic Car (vehicle of Imranack) moved wrongly! 1.009732379944353
+[14Dec2024 18:01:02.691] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:01:13.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Applied effect Blindness to Momo93bg]
+[14Dec2024 18:01:44.407] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:02:23.589] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:02:26.657] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:02:27.553] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:02:35.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Removed effect Blindness from Momo93bg]
+[14Dec2024 18:03:38.452] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=15, z=156} BlockPos{x=360, y=7, z=-230}
+[14Dec2024 18:03:49.788] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:03:49.953] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:03:50.156] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:03:52.404] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:03:53.058] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:03:53.393] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:03:53.635] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:03:53.791] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:03:53.942] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:03:58.354] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[14Dec2024 18:04:09.456] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:09.637] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:09.856] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:10.033] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:10.254] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:12.794] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:13.006] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:13.204] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:13.342] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:13.537] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:13.758] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:13.936] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:14.955] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:15.103] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:15.307] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:15.454] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:15.654] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:15.894] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:16.343] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:16.505] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:16.702] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:16.844] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:17.054] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:17.286] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:17.643] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:17.855] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:17.992] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:18.207] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:18.453] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:18.586] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:18.753] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:19.154] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:19.303] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:19.504] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:19.656] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:19.802] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:20.043] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:20.191] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:20.353] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:20.891] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:21.706] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:22.292] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:24.207] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:24.336] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:26.151] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:27.702] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:28.279] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:28.354] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:28.543] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:31.875] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:32.005] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:35.309] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:36.257] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:36.405] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:36.602] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:36.801] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:37.052] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:47.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[14Dec2024 18:04:49.537] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:49.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[14Dec2024 18:04:53.655] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:53.852] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:54.031] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=15, z=156} BlockPos{x=362, y=9, z=-226}
+[14Dec2024 18:04:54.101] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:54.202] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:54.406] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:54.552] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=15, z=156} BlockPos{x=362, y=8, z=-226}
+[14Dec2024 18:04:54.584] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:54.835] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:55.034] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=15, z=156} BlockPos{x=362, y=9, z=-226}
+[14Dec2024 18:04:55.084] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:55.203] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:55.402] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:55.604] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:55.805] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:56.055] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:56.240] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:04:58.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=15, z=156} BlockPos{x=359, y=9, z=-226}
+[14Dec2024 18:04:58.701] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=15, z=156} BlockPos{x=360, y=9, z=-226}
+[14Dec2024 18:05:01.253] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=15, z=156} BlockPos{x=359, y=9, z=-226}
+[14Dec2024 18:05:01.341] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=15, z=156} BlockPos{x=359, y=10, z=-227}
+[14Dec2024 18:05:01.954] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=15, z=156} BlockPos{x=360, y=10, z=-227}
+[14Dec2024 18:05:01.954] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=15, z=156} BlockPos{x=360, y=10, z=-228}
+[14Dec2024 18:05:03.133] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=15, z=156} BlockPos{x=361, y=10, z=-228}
+[14Dec2024 18:05:03.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Summoned new Zombie]
+[14Dec2024 18:05:04.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=15, z=156} BlockPos{x=362, y=10, z=-228}
+[14Dec2024 18:05:04.138] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=15, z=156} BlockPos{x=361, y=10, z=-228}
+[14Dec2024 18:05:04.690] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=15, z=156} BlockPos{x=361, y=10, z=-227}
+[14Dec2024 18:05:04.740] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=15, z=156} BlockPos{x=361, y=10, z=-228}
+[14Dec2024 18:05:05.375] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=15, z=156} BlockPos{x=362, y=10, z=-228}
+[14Dec2024 18:05:10.502] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=15, z=156} BlockPos{x=361, y=10, z=-228}
+[14Dec2024 18:05:10.832] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=15, z=156} BlockPos{x=362, y=10, z=-228}
+[14Dec2024 18:05:10.956] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=15, z=156} BlockPos{x=361, y=10, z=-228}
+[14Dec2024 18:05:11.056] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=15, z=156} BlockPos{x=361, y=10, z=-227}
+[14Dec2024 18:05:12.205] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:05:12.402] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:05:12.552] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:05:12.753] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:05:12.955] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 18:05:13.152] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
