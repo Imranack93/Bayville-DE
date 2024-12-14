@@ -720,3 +720,68 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Dec2024 17:34:19.965] [Server thread/INFO] [cuffed/]: Gaga is interacting!
 [14Dec2024 17:34:28.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Momo93bg: Triggered [tr] (set value to 245)]
 [14Dec2024 17:34:36.720] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:35:23.618] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:35:23.729] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:35:28.264] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:35:30.463] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:35:31.517] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:35:45.261] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:35:45.707] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:35:45.708] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:35:45.708] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:35:45.709] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:35:45.709] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:35:45.710] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:35:45.710] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:35:45.710] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:35:45.711] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:35:45.711] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:35:45.712] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:35:45.712] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:35:45.712] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:35:45.713] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:35:45.713] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:35:45.713] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:35:45.714] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:35:45.714] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:35:45.715] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:36:08.336] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:36:11.578] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:36:14.370] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:36:30.510] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg lost connection: You logged in from another location
+[14Dec2024 17:36:30.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg left the game
+[14Dec2024 17:36:30.517] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Momo93bg[/127.189.193.26:53253] logged in with entity id 4882 at (-48.45665865401118, 14.0, 160.69999998807907)
+[14Dec2024 17:36:30.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg joined the game
+[14Dec2024 17:36:59.213] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:37:02.068] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:37:03.311] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:37:30.679] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:37:31.279] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:37:32.440] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:39:00.904] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg lost connection: Timed out
+[14Dec2024 17:39:00.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg left the game
+[14Dec2024 17:39:35.456] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@41aa0c4c[id=<null>,name=Momo93bg,properties={},legacy=false] (/127.189.193.26:54033) lost connection: Disconnected
+[14Dec2024 17:39:38.110] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Momo93bg[/127.189.193.26:39973] logged in with entity id 5166 at (-64.30000001192093, 14.0, 154.07982853901146)
+[14Dec2024 17:39:38.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg joined the game
+[14Dec2024 17:39:47.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Momo93bg: Triggered [tr] (set value to 242)]
+[14Dec2024 17:40:32.298] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:40:52.943] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:40:52.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Momo93bg: Triggered [tr] (set value to 89)]
+[14Dec2024 17:41:07.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Momo93bg: Triggered [tr] (set value to 89)]
+[14Dec2024 17:41:09.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Momo93bg: Triggered [tr] (set value to 89)]
+[14Dec2024 17:41:13.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Momo93bg: Triggered [tr] (set value to 91)]
+[14Dec2024 17:41:14.296] [Server thread/WARN] [net.minecraft.network.chat.contents.SelectorContents/]: Invalid selector component: @p[tag=scores={tr=89..98}]: Expected end of options at position 13: ...tag=scores<--[HERE]
+[14Dec2024 17:42:30.072] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[14Dec2024 17:43:12.427] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:43:20.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Applied effect Blindness to Imranack]
+[14Dec2024 17:43:28.327] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:43:30.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Removed effect Blindness from Imranack]
+[14Dec2024 17:43:33.177] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:43:33.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Applied effect Blindness to Imranack]
+[14Dec2024 17:43:38.127] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:43:38.953] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:43:39.617] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:43:40.517] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:43:43.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Applied effect Blindness to Imranack]
+[14Dec2024 17:43:48.003] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:43:52.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Removed effect Blindness from Imranack]
