@@ -785,3 +785,143 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Dec2024 17:43:43.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Applied effect Blindness to Imranack]
 [14Dec2024 17:43:48.003] [Server thread/INFO] [cuffed/]: Gaga is interacting!
 [14Dec2024 17:43:52.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Removed effect Blindness from Imranack]
+[14Dec2024 17:45:10.417] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:45:11.007] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:45:11.166] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:45:11.367] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:45:11.551] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:45:11.854] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:45:12.007] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:45:14.307] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:46:18.446] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:46:31.155] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:46:32.155] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:46:33.153] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:46:36.208] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:46:36.403] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:46:36.652] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:46:43.307] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:46:45.206] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:46:46.690] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:46:47.909] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:46:59.191] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:47:09.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[14Dec2024 17:47:10.596] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:47:52.516] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:47:54.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Created team [equipo_inconue]]
+[14Dec2024 17:48:00.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Added Imranack to team [equipo_inconue]]
+[14Dec2024 17:48:07.006] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:48:15.256] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:48:15.416] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:48:15.626] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:48:31.891] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:48:55.739] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:48:56.760] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:49:01.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[14Dec2024 17:49:03.396] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:49:06.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Teleported Imranack to Momo93bg]
+[14Dec2024 17:49:33.960] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:49:41.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[14Dec2024 17:49:48.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[14Dec2024 17:50:00.358] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:50:16.996] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/160, l='ServerLevel[world]', x=166.50, y=12.00, z=-190.50] died, message: 'Farmer was killed'
+[14Dec2024 17:50:20.525] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:50:26.358] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:50:30.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Gaga) moved wrongly! 0.31925476775194284
+[14Dec2024 17:50:30.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Gaga) moved wrongly! 0.8188355714275986
+[14Dec2024 17:50:35.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Gaga) moved wrongly! 0.3322196715792245
+[14Dec2024 17:50:35.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Gaga) moved wrongly! 0.8251355853708446
+[14Dec2024 17:50:35.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Gaga) moved wrongly! 0.332219675978223
+[14Dec2024 17:50:35.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Gaga) moved wrongly! 0.8251355972483339
+[14Dec2024 17:50:35.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Gaga) moved wrongly! 1.318051520674004
+[14Dec2024 17:50:35.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Gaga) moved wrongly! 0.33221968272204094
+[14Dec2024 17:50:35.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Gaga) moved wrongly! 0.33221968377827693
+[14Dec2024 17:50:35.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Gaga) moved wrongly! 0.8251356105084255
+[14Dec2024 17:50:35.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Gaga) moved wrongly! 0.3322196850351986
+[14Dec2024 17:50:35.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Gaga) moved wrongly! 0.8251356126451697
+[14Dec2024 17:50:36.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Gaga) moved wrongly! 0.33221968565106863
+[14Dec2024 17:50:36.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Gaga) moved wrongly! 0.3322196858285906
+[14Dec2024 17:50:36.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Gaga) moved wrongly! 0.8251356139939503
+[14Dec2024 17:50:36.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Gaga) moved wrongly! 0.3322196860398492
+[14Dec2024 17:50:36.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Gaga) moved wrongly! 0.3322196861007285
+[14Dec2024 17:50:36.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Gaga) moved wrongly! 0.33221968614336106
+[14Dec2024 17:50:36.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Gaga) moved wrongly! 0.33221968617317543
+[14Dec2024 17:50:36.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Gaga) moved wrongly! 0.8251356145797502
+[14Dec2024 17:50:36.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Gaga) moved wrongly! 0.33221968620870257
+[14Dec2024 17:50:36.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Gaga) moved wrongly! 0.8251356146401463
+[14Dec2024 17:50:36.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Gaga) moved wrongly! 0.33221968622609666
+[14Dec2024 17:50:36.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Gaga) moved wrongly! 0.8251356146697049
+[14Dec2024 17:50:36.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Gaga) moved wrongly! 1.3180515431168374
+[14Dec2024 17:50:36.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Gaga) moved wrongly! 0.33221968623706744
+[14Dec2024 17:50:36.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Gaga) moved wrongly! 0.33221968623880116
+[14Dec2024 17:50:36.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Gaga) moved wrongly! 0.8251356146913054
+[14Dec2024 17:50:36.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Gaga) moved wrongly! 0.3322196862408475
+[14Dec2024 17:50:36.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Gaga) moved wrongly! 0.33221968624141596
+[14Dec2024 17:50:36.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pickup Truck (vehicle of Gaga) moved wrongly! 0.67726083028316
+[14Dec2024 17:50:37.757] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:50:53.745] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:50:53.746] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:50:53.746] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:50:53.747] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:50:53.747] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:50:53.747] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:50:53.748] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:50:53.749] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:50:53.749] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:50:53.749] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:50:53.750] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:50:53.750] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:50:53.751] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:50:53.752] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:50:53.753] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:50:53.753] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:50:53.754] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:50:53.754] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:50:53.755] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:50:57.604] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:51:01.204] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:51:01.405] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:51:01.604] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:51:04.056] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:51:09.758] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:51:09.957] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:51:10.183] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:51:10.407] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:51:11.055] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:51:11.253] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:51:11.453] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:51:13.666] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:51:14.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[14Dec2024 17:51:15.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Momo93bg: Triggered [tr] (set value to 90)]
+[14Dec2024 17:51:23.409] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:51:29.705] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[14Dec2024 17:51:41.695] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/6690, l='ServerLevel[world]', x=52.50, y=13.00, z=134.50] died, message: 'Armorer was killed'
+[14Dec2024 17:51:41.696] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/6692, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[14Dec2024 17:51:58.257] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:52:10.207] [Server thread/INFO] [cuffed/]: Gaga is interacting!
+[14Dec2024 17:53:05.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gaga has made the advancement [Isn't It Iron Pick]
+[14Dec2024 17:54:37.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg has made the advancement [Isn't It Iron Pick]
+[14Dec2024 17:54:50.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set the time to 13000]
+[14Dec2024 17:54:56.664] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player Momo93bg just tried to change non-editable sign
+[14Dec2024 17:54:56.664] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player Momo93bg just tried to change non-editable sign
+[14Dec2024 17:54:57.791] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player Momo93bg just tried to change non-editable sign
+[14Dec2024 17:54:59.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set the time to 1000]
+[14Dec2024 17:55:01.746] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:55:01.747] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:55:01.748] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:55:01.748] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:55:01.749] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:55:01.749] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:55:01.749] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:55:01.750] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:55:01.750] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:55:01.751] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:55:01.751] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:55:01.751] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:55:01.752] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:55:01.752] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:55:01.753] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:55:01.753] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:55:01.753] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:55:01.754] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Dec2024 17:55:01.754] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
