@@ -1551,5 +1551,17 @@
     },
     "done": true
   },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2024-12-18 11:21:05 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2024-12-18 11:21:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
