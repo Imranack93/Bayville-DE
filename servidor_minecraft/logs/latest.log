@@ -642,3 +642,10 @@ Missing minecraft:block:
 [18Dec2024 11:26:04.930] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaga lost connection: Disconnected
 [18Dec2024 11:26:04.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gaga left the game
 [18Dec2024 11:57:41.810] [Server thread/WARN] [jeg/]: literal{Imranack}(45c9e1f1-d058-34e4-b7ab-09049f609783) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 199
+[18Dec2024 12:08:25.027] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Milijana'/1030, l='ServerLevel[world]', x=52.50, y=13.00, z=134.50] died, message: 'Milijana was killed'
+[18Dec2024 12:08:25.038] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Miko'/1031, l='ServerLevel[world]', x=52.50, y=13.00, z=134.50] died, message: 'Miko was killed'
+[18Dec2024 12:09:34.977] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[18Dec2024 12:09:39.788] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[18Dec2024 12:10:21.735] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[18Dec2024 12:10:23.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Modern Car (vehicle of Imranack) moved wrongly! 0.6052995785191229
+[18Dec2024 12:10:23.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Modern Car (vehicle of Imranack) moved wrongly! 1.0698551036880986
