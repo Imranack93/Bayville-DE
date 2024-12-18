@@ -637,3 +637,7 @@ Missing minecraft:block:
 [18Dec2024 11:21:05.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gaga joined the game
 [18Dec2024 11:21:20.679] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaga lost connection: Disconnected
 [18Dec2024 11:21:20.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gaga left the game
+[18Dec2024 11:25:50.793] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gaga[/127.169.12.48:43471] logged in with entity id 527 at (73.30000001192093, 12.0, 242.30000001192093)
+[18Dec2024 11:25:50.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gaga joined the game
+[18Dec2024 11:26:04.930] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gaga lost connection: Disconnected
+[18Dec2024 11:26:04.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gaga left the game
