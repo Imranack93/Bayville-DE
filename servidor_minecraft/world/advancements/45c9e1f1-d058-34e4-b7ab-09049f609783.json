@@ -4709,6 +4709,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2024-12-18 11:53:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2024-12-18 11:53:28 +0000"
+    },
+    "done": true
+  },
+  "jeg:service_rifle": {
+    "criteria": {
+      "Item": "2024-12-18 11:52:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
       "has_shulker_shell": "2024-12-18 11:32:42 +0000"
